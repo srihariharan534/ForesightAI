@@ -1,0 +1,11 @@
+feature,importance,rank,category
+has_previous_default,0.3142,1,risk_history
+credit_score,0.2487,2,creditworthiness
+income,0.1623,3,financial_capacity
+loan_amount,0.1204,4,exposure
+debt_to_income_ratio,0.0834,5,financial_stress
+years_employed,0.0412,6,employment_stability
+age,0.0187,7,demographics
+num_dependents,0.0071,8,demographics
+employment_type,0.0028,9,employment_stability
+education,0.0012,10,demographics

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "foresightai"
+version = "0.1.0"
+description = "AI-Powered Prediction, Simulation & Decision Support Platform"
+authors = ["AI Engineering Team"]
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.isort]
+profile = "black"
+line_length = 88
+multi_line_output = 3
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+addopts = "-v --cov=backend --cov=ml_engine --cov-report=term-missing"
+testpaths = ["tests"]

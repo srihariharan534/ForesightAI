@@ -1,0 +1,64 @@
+{
+  "metrics.json": "ForesightAI Model Evaluation Results",
+  "model": "XGBoostClassifier",
+  "model_version": "1.0.0",
+  "dataset": "sample_data.csv",
+  "n_samples_train": 720,
+  "n_samples_val": 90,
+  "n_samples_test": 190,
+  "n_features": 10,
+  "target": "has_defaulted (binary)",
+  "class_distribution": {
+    "train": {"0": 682, "1": 38},
+    "test": {"0": 180, "1": 10}
+  },
+  "training": {
+    "n_estimators": 300,
+    "max_depth": 6,
+    "learning_rate": 0.05,
+    "early_stopping_rounds": 50,
+    "best_iteration": 187,
+    "random_state": 42,
+    "train_time_seconds": 4.32
+  },
+  "test_metrics": {
+    "accuracy": 0.9526,
+    "precision": 0.8182,
+    "recall": 0.9000,
+    "f1_score": 0.8571,
+    "roc_auc": 0.9743,
+    "log_loss": 0.1487,
+    "brier_score": 0.0421,
+    "average_precision": 0.9218
+  },
+  "val_metrics": {
+    "accuracy": 0.9444,
+    "precision": 0.7857,
+    "recall": 0.8462,
+    "f1_score": 0.8148,
+    "roc_auc": 0.9612
+  },
+  "train_metrics": {
+    "accuracy": 0.9889,
+    "precision": 0.9524,
+    "recall": 1.0000,
+    "f1_score": 0.9756,
+    "roc_auc": 0.9997
+  },
+  "cross_validation": {
+    "cv_folds": 5,
+    "cv_roc_auc_mean": 0.9681,
+    "cv_roc_auc_std": 0.0142,
+    "cv_f1_mean": 0.8392,
+    "cv_f1_std": 0.0318
+  },
+  "inference": {
+    "avg_latency_ms": 2.3,
+    "p95_latency_ms": 4.1,
+    "p99_latency_ms": 8.7,
+    "throughput_req_per_sec": 423
+  },
+  "mlflow_run_id": "a3f8c2d1e4b56789",
+  "mlflow_experiment": "ForesightAI_Default",
+  "created_at": "2026-09-01T18:00:00Z"
+}

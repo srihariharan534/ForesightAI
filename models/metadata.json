@@ -1,0 +1,24 @@
+{
+  "model_name": "ForesightAI_Loan_Risk_XGB",
+  "version": "1.0.0",
+  "framework": "xgboost",
+  "framework_version": "2.0.3",
+  "model_type": "binary_classification",
+  "target_variable": "severity",
+  "training_date": "2026-09-01T14:30:00Z",
+  "mlflow_run_id": "a3f8c2d1e4b56789",
+  "artifacts": {
+    "model_path": "artifacts/v1.0.0/xgboost_model.bin",
+    "preprocessor_path": "artifacts/v1.0.0/preprocessor.joblib"
+  },
+  "hyperparameters": {
+    "n_estimators": 300,
+    "max_depth": 6,
+    "learning_rate": 0.05,
+    "tree_method": "hist",
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "scale_pos_weight": 1.2
+  },
+  "author": "ForesightAI ML Team"
+}

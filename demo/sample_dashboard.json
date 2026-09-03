@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-09-01T18:00:00Z",
+  "period": "Last 30 Days",
+  "kpis": {
+    "totalModels": 5,
+    "activeSimulations": 3,
+    "systemHealth": 98.5,
+    "criticalAlerts": 1,
+    "predictionsLast24h": 247,
+    "avgConfidence": 0.912
+  },
+  "trendData": [
+    {"name": "Mon", "predictions": 198, "accuracy": 0.951},
+    {"name": "Tue", "predictions": 214, "accuracy": 0.963},
+    {"name": "Wed", "predictions": 187, "accuracy": 0.947},
+    {"name": "Thu", "predictions": 231, "accuracy": 0.958},
+    {"name": "Fri", "predictions": 247, "accuracy": 0.972},
+    {"name": "Sat", "predictions": 143, "accuracy": 0.944},
+    {"name": "Sun", "predictions": 121, "accuracy": 0.939}
+  ],
+  "riskDistribution": [
+    {"name": "Low Risk",      "value": 55, "color": "#22c55e"},
+    {"name": "Medium Risk",   "value": 30, "color": "#eab308"},
+    {"name": "High Risk",     "value": 12, "color": "#f97316"},
+    {"name": "Critical Risk", "value": 3,  "color": "#ef4444"}
+  ],
+  "activityFeed": [
+    {"id": "a1", "type": "success", "message": "Loan application #A1042 approved (92% confidence).", "status": "success", "timestamp": "2026-09-01T17:45:00Z"},
+    {"id": "a2", "type": "alert",   "message": "High-risk cluster detected — North Industrial Zone.", "status": "critical", "timestamp": "2026-09-01T17:30:00Z"},
+    {"id": "a3", "type": "info",    "message": "Model XGBoost v1.0.0 retrained. AUC: 0.9743.", "status": "info", "timestamp": "2026-09-01T16:00:00Z"},
+    {"id": "a4", "type": "warning", "message": "API latency spike: 350ms (threshold: 200ms).", "status": "warning", "timestamp": "2026-09-01T15:22:00Z"},
+    {"id": "a5", "type": "success", "message": "Batch inference: 500 applications scored in 1.2s.", "status": "success", "timestamp": "2026-09-01T14:10:00Z"}
+  ],
+  "riskZones": [
+    {"id": "z1", "label": "Downtown Financial Hub", "center": [28.6139, 77.2090], "radius": 1500, "risk": "high"},
+    {"id": "z2", "label": "North Industrial Zone",  "center": [28.7041, 77.1025], "radius": 2000, "risk": "medium"},
+    {"id": "z3", "label": "South Residential Area", "center": [28.5244, 77.1855], "radius": 1200, "risk": "low"},
+    {"id": "z4", "label": "East Tech Corridor",     "center": [28.6280, 77.3743], "radius": 1800, "risk": "medium"}
+  ]
+}

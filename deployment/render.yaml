@@ -1,0 +1,35 @@
+name: ForesightAI
+services:
+  - type: web
+    name: foresightai-backend
+    runtime: python
+    plan: starter
+    region: singapore
+    rootDir: backend
+    buildCommand: pip install -r ../requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: foresightai-db
+          property: connectionString
+      - key: MLFLOW_TRACKING_URI
+        value: sqlite:///mlflow.db
+      - key: ML_RANDOM_SEED
+        value: "42"
+      - key: ML_LOG_LEVEL
+        value: INFO
+      - key: PYTHONPATH
+        value: /opt/render/project/src:/opt/render/project/src/backend
+    disk:
+      name: ml-artifacts
+      mountPath: /app/models/artifacts
+      sizeGB: 5
+
+databases:
+  - name: foresightai-db
+    plan: starter
+    region: singapore
+    databaseName: foresightai
+    user: foresight

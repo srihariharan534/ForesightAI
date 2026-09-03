@@ -1,0 +1,1001 @@
+age,income,credit_score,years_employed,loan_amount,num_dependents,region,employment_type,education,has_previous_default,target
+23,80797.86,480.0,30.0,40870.05,1,North,Full-Time,Bachelor,0,0
+62,56647.36,591.0,4.0,32943.37,5,West,Full-Time,High School,1,0
+55,65453.99,403.0,16.0,25193.55,2,East,Part-Time,High School,0,0
+43,53977.9,785.0,0.0,19467.68,5,Central,Full-Time,Bachelor,1,0
+42,51932.66,700.0,18.0,19801.21,3,North,Part-Time,High School,0,0
+66,40969.32,718.0,9.0,28932.96,3,West,Full-Time,Bachelor,0,0
+22,62745.42,393.0,13.0,32010.03,1,North,Part-Time,Master,0,0
+57,39672.33,689.0,18.0,14108.59,2,East,Self-Employed,Bachelor,1,0
+29,66980.53,759.0,12.0,25437.77,0,East,Part-Time,Bachelor,0,0
+23,74535.17,396.0,15.0,1000.0,3,East,Full-Time,Bachelor,1,0
+48,61597.57,713.0,30.0,27540.57,1,West,Part-Time,High School,0,0
+73,49847.52,496.0,32.0,34145.79,1,Central,Unemployed,PhD,0,0
+59,63171.38,733.0,0.0,21639.18,0,South,Full-Time,Bachelor,0,0
+61,49443.89,563.0,15.0,46798.32,4,Central,Full-Time,High School,0,0
+58,71839.85,741.0,33.0,14425.14,5,North,Self-Employed,High School,1,1
+62,22034.69,381.0,21.0,27609.28,2,South,Full-Time,PhD,0,0
+47,48959.07,513.0,8.0,24570.1,3,South,Part-Time,High School,0,0
+25,19165.38,450.0,23.0,23796.43,5,Central,Self-Employed,Bachelor,0,0
+65,28088.91,436.0,5.0,23628.13,3,North,Full-Time,High School,0,0
+43,79549.52,469.0,0.0,26285.26,3,South,Part-Time,High School,0,0
+46,71113.33,510.0,25.0,35175.5,2,East,Part-Time,Master,1,0
+39,42049.36,370.0,20.0,41532.83,3,Central,Full-Time,High School,0,0
+28,27954.94,688.0,30.0,24973.0,3,East,Self-Employed,High School,0,1
+70,10000.0,602.0,13.0,34783.79,4,Central,Full-Time,Bachelor,0,0
+62,45217.08,756.0,34.0,16578.8,3,West,Full-Time,Master,0,0
+54,98567.47,687.0,16.0,34191.47,3,West,Self-Employed,Bachelor,0,0
+40,62827.92,381.0,29.0,15856.1,0,West,Full-Time,High School,0,0
+64,44927.7,338.0,4.0,38087.92,5,North,Self-Employed,None,0,0
+49,63371.44,532.0,3.0,51527.69,5,East,Full-Time,Bachelor,0,0
+43,26902.75,564.0,31.0,23534.99,1,East,Full-Time,Master,1,0
+43,49648.18,432.0,33.0,1000.0,1,South,Full-Time,Master,1,0
+30,56790.59,730.0,37.0,18423.12,5,North,Part-Time,Bachelor,1,0
+23,53450.19,619.0,12.0,39782.5,1,North,Self-Employed,Bachelor,0,1
+49,69234.51,711.0,0.0,31636.92,4,West,Self-Employed,Bachelor,0,0
+68,61203.61,359.0,39.0,27986.96,4,West,Unemployed,Master,0,0
+21,67029.87,748.0,24.0,37104.02,5,South,Part-Time,Master,0,0
+66,42609.3,413.0,9.0,30813.44,0,West,Self-Employed,None,0,0
+65,71160.68,546.0,30.0,39612.7,2,West,Full-Time,Bachelor,0,0
+33,84320.87,541.0,36.0,36033.08,3,Central,Unemployed,High School,1,0
+54,37537.31,751.0,11.0,43260.41,5,Central,Part-Time,Bachelor,1,0
+27,39021.48,452.0,,29305.55,1,Central,Self-Employed,Bachelor,0,0
+61,79044.12,432.0,31.0,35863.11,1,North,Full-Time,Bachelor,0,0
+57,51555.81,486.0,20.0,21314.48,1,West,Full-Time,Master,0,0
+38,80268.79,498.0,25.0,17782.47,4,South,Part-Time,Bachelor,0,0
+21,47034.36,399.0,10.0,45481.21,5,East,Full-Time,High School,0,0
+73,81190.82,396.0,37.0,27594.46,0,West,Full-Time,Bachelor,1,0
+43,57366.74,427.0,39.0,34658.57,1,West,Unemployed,Bachelor,0,0
+68,,557.0,39.0,26484.88,1,East,Full-Time,PhD,0,0
+56,83164.92,488.0,29.0,17961.81,5,Central,Full-Time,Bachelor,0,0
+62,48488.13,515.0,1.0,25131.79,2,North,Full-Time,Bachelor,0,0
+61,38059.8,695.0,14.0,42231.93,1,North,Full-Time,Bachelor,0,0
+29,46925.84,432.0,17.0,31662.88,1,North,Part-Time,Bachelor,0,0
+38,63142.01,800.0,38.0,4462.32,3,Central,Unemployed,High School,0,0
+44,26816.34,713.0,21.0,22417.07,2,East,Unemployed,Master,0,0
+46,66474.48,396.0,21.0,46387.53,0,East,Part-Time,PhD,0,0
+20,45302.12,472.0,5.0,22434.44,4,West,Part-Time,Bachelor,0,0
+49,75660.63,400.0,31.0,3394.26,2,East,Full-Time,Bachelor,0,1
+26,11903.31,450.0,13.0,47716.59,1,East,Self-Employed,High School,1,0
+60,40841.82,501.0,3.0,33188.71,4,North,Full-Time,Bachelor,0,0
+56,24643.57,371.0,39.0,24159.85,4,North,Full-Time,Bachelor,0,0
+70,40127.87,307.0,7.0,20542.99,0,Central,Unemployed,Master,0,0
+60,59457.99,541.0,0.0,37988.22,0,East,Self-Employed,High School,0,0
+38,51773.92,685.0,3.0,18496.2,0,North,Full-Time,Master,0,0
+73,50439.2,466.0,18.0,38779.08,4,South,Part-Time,High School,0,1
+41,52134.67,773.0,4.0,31506.34,3,South,Full-Time,Bachelor,0,0
+36,58660.99,503.0,33.0,27936.18,4,South,Full-Time,Bachelor,1,0
+69,36846.35,795.0,20.0,26746.18,3,South,Full-Time,High School,0,0
+39,67723.29,429.0,12.0,22900.38,2,West,Full-Time,Bachelor,0,0
+22,66927.99,596.0,0.0,37547.68,3,North,Full-Time,Master,1,0
+44,61930.68,719.0,19.0,14615.89,4,South,Full-Time,Bachelor,0,0
+63,65017.6,332.0,6.0,5536.9,2,East,Full-Time,High School,0,1
+28,60335.52,811.0,39.0,32373.28,5,East,Full-Time,Bachelor,0,0
+44,91631.32,500.0,11.0,32574.86,5,Central,Unemployed,Bachelor,0,0
+25,53432.3,573.0,18.0,30762.89,4,Central,Part-Time,Bachelor,0,0
+57,49472.5,645.0,0.0,29892.74,5,South,Self-Employed,Bachelor,0,0
+45,41436.5,653.0,5.0,21153.52,2,East,Full-Time,High School,0,0
+36,36419.27,313.0,8.0,34449.79,0,North,Part-Time,Bachelor,1,0
+30,32599.51,776.0,2.0,24453.3,2,West,Self-Employed,Master,0,0
+50,39001.65,642.0,29.0,19154.64,4,North,Full-Time,Master,0,0
+56,53727.75,849.0,37.0,21257.3,4,North,Full-Time,High School,0,0
+71,61017.31,559.0,39.0,49247.68,2,West,Full-Time,Bachelor,0,0
+42,55920.56,637.0,10.0,4180.29,1,North,Full-Time,Bachelor,0,0
+27,41220.37,542.0,31.0,30997.46,2,East,Full-Time,High School,0,0
+65,71203.32,789.0,20.0,4850.67,4,North,Full-Time,Bachelor,1,0
+53,68309.43,757.0,1.0,23701.2,0,West,Full-Time,High School,0,0
+57,52126.33,799.0,3.0,19796.47,1,West,Part-Time,High School,0,0
+23,43247.51,577.0,21.0,1000.0,1,East,Full-Time,Bachelor,0,0
+35,64871.7,735.0,16.0,29668.45,4,Central,Full-Time,High School,0,0
+61,58383.52,497.0,0.0,20439.54,2,East,Part-Time,Master,0,0
+65,28933.71,553.0,37.0,1000.0,0,North,Full-Time,High School,0,0
+42,53776.36,718.0,29.0,35074.82,1,North,Full-Time,Bachelor,0,0
+63,59716.64,344.0,20.0,42220.07,0,South,Full-Time,Bachelor,0,0
+65,38805.49,690.0,39.0,42881.49,2,South,Full-Time,Master,0,0
+40,58417.18,308.0,38.0,29307.48,5,South,Full-Time,Master,0,0
+69,28813.2,619.0,38.0,25552.7,3,South,Full-Time,Bachelor,0,0
+34,79051.35,562.0,10.0,40937.88,5,East,Full-Time,Bachelor,0,0
+31,77463.1,557.0,35.0,45188.6,4,North,Unemployed,High School,0,0
+56,50454.69,571.0,20.0,38602.82,5,West,Unemployed,Bachelor,0,0
+54,61542.18,570.0,29.0,13701.55,1,South,Full-Time,High School,0,0
+25,11621.4,524.0,34.0,27416.14,5,West,Full-Time,Bachelor,1,0
+65,34185.74,548.0,6.0,30274.19,1,East,Full-Time,High School,0,0
+29,49711.98,612.0,17.0,3284.6,2,Central,Self-Employed,Master,0,0
+63,35701.61,719.0,5.0,30632.33,4,East,Self-Employed,Bachelor,1,0
+18,67859.14,603.0,11.0,52275.9,1,South,Full-Time,Bachelor,0,0
+63,90951.34,653.0,16.0,32679.23,1,East,Full-Time,Bachelor,0,0
+62,33820.94,760.0,,42680.96,0,West,Full-Time,High School,0,0
+62,39925.66,844.0,34.0,27194.98,0,East,Self-Employed,High School,0,0
+55,59238.07,359.0,15.0,24121.38,3,East,Self-Employed,PhD,0,0
+44,84000.09,692.0,13.0,29575.26,5,East,Full-Time,Master,1,0
+58,32997.26,423.0,21.0,15210.08,1,South,Part-Time,High School,0,0
+33,59482.65,408.0,36.0,13434.7,2,South,Full-Time,Master,0,0
+62,87783.38,736.0,39.0,40195.65,5,Central,Part-Time,Bachelor,0,0
+49,25268.34,337.0,9.0,41468.11,4,West,Unemployed,High School,1,0
+44,31940.75,766.0,7.0,13106.72,0,North,Full-Time,Bachelor,0,0
+46,47375.08,723.0,28.0,36615.99,3,Central,Full-Time,High School,1,0
+50,45629.41,847.0,12.0,23956.48,0,West,Part-Time,High School,0,0
+20,,667.0,7.0,29077.7,1,North,Full-Time,Bachelor,0,0
+25,59349.87,780.0,1.0,30522.62,1,West,Self-Employed,High School,0,0
+31,23050.68,365.0,16.0,36932.21,3,East,Full-Time,Master,0,0
+24,64277.39,789.0,15.0,25992.62,1,Central,Self-Employed,Bachelor,0,0
+43,44604.3,388.0,22.0,41921.94,1,East,Full-Time,Master,1,0
+56,77940.05,472.0,8.0,28712.95,1,East,Full-Time,Bachelor,0,0
+55,43703.42,370.0,28.0,32490.21,2,South,Full-Time,Master,0,0
+44,43540.92,520.0,27.0,15000.85,3,South,Full-Time,Bachelor,0,1
+66,64740.37,711.0,18.0,50903.91,2,West,Full-Time,Bachelor,0,1
+50,68732.68,447.0,7.0,30637.9,1,Central,Part-Time,Bachelor,0,0
+22,63065.79,752.0,20.0,33555.97,3,Central,Full-Time,PhD,0,0
+61,24659.25,633.0,26.0,5701.77,3,West,Full-Time,High School,0,0
+50,64684.62,645.0,14.0,15127.58,0,West,Full-Time,Bachelor,1,0
+54,36382.46,816.0,10.0,39854.6,5,East,Full-Time,Master,0,0
+50,59234.97,537.0,20.0,28442.69,5,South,Self-Employed,Bachelor,0,0
+49,29372.78,489.0,14.0,2034.64,3,West,Unemployed,Master,0,0
+23,63033.8,847.0,16.0,37459.48,3,South,Full-Time,Bachelor,1,0
+49,40481.22,606.0,13.0,18474.61,4,South,Self-Employed,High School,0,0
+63,31912.58,638.0,12.0,41935.8,2,Central,Part-Time,Bachelor,1,0
+35,67848.76,462.0,28.0,23945.97,2,East,Unemployed,Bachelor,0,0
+52,59349.6,418.0,18.0,27456.48,2,South,Full-Time,High School,0,0
+19,43948.42,393.0,18.0,39147.45,0,Central,Full-Time,High School,1,0
+37,81121.22,422.0,26.0,14230.08,5,Central,Full-Time,High School,1,0
+42,47068.26,407.0,14.0,13085.84,1,South,Self-Employed,Master,0,1
+74,55577.94,710.0,4.0,22642.02,1,East,Part-Time,Master,0,0
+30,59840.44,331.0,34.0,34926.07,5,East,Full-Time,Bachelor,0,0
+33,43846.01,646.0,2.0,9029.47,3,West,Full-Time,High School,0,0
+41,63480.45,822.0,22.0,4983.58,3,Central,Part-Time,Bachelor,1,0
+74,45397.86,721.0,10.0,34884.65,1,East,Self-Employed,Master,0,0
+66,,521.0,8.0,17764.26,1,West,Full-Time,Master,0,1
+19,79527.57,332.0,1.0,20293.29,4,East,Part-Time,High School,0,1
+31,36269.45,758.0,36.0,2718.28,2,Central,Full-Time,High School,0,0
+64,11569.95,301.0,17.0,16852.25,0,East,Full-Time,PhD,0,0
+21,83996.87,,13.0,24909.19,5,South,Full-Time,Master,0,0
+66,,669.0,29.0,36164.53,2,East,Self-Employed,High School,0,1
+34,47705.15,405.0,1.0,15745.24,4,Central,Unemployed,Master,0,0
+70,20136.92,706.0,22.0,44888.51,2,West,Full-Time,High School,0,0
+34,49411.29,396.0,19.0,16785.33,3,North,Full-Time,High School,1,0
+42,49847.99,424.0,22.0,16802.9,4,North,Full-Time,Master,0,0
+55,51581.37,746.0,4.0,43448.29,5,East,Full-Time,Bachelor,0,0
+25,34959.02,838.0,38.0,27537.52,1,Central,Full-Time,Bachelor,0,0
+49,65432.1,445.0,9.0,18375.7,4,East,Full-Time,PhD,0,0
+46,64441.13,806.0,27.0,23138.4,5,East,Full-Time,Master,0,0
+62,28100.7,802.0,29.0,41236.88,3,West,Full-Time,High School,0,0
+74,67585.54,723.0,13.0,42594.43,0,East,Full-Time,Bachelor,0,0
+55,91948.33,377.0,5.0,15198.48,1,Central,Self-Employed,Master,0,0
+41,58095.29,464.0,11.0,24490.79,1,West,Full-Time,Bachelor,1,0
+41,48928.15,672.0,32.0,26081.88,0,West,Part-Time,None,0,0
+41,52443.94,849.0,36.0,13165.12,4,West,Unemployed,Bachelor,0,0
+64,66074.62,747.0,37.0,24331.78,5,West,Part-Time,High School,0,0
+36,23847.91,531.0,9.0,25063.87,3,North,Full-Time,High School,1,0
+27,57959.03,429.0,24.0,38682.51,3,East,Full-Time,Master,0,0
+37,47971.65,828.0,6.0,39489.1,4,North,Part-Time,None,1,0
+19,88260.85,451.0,28.0,21049.49,2,East,Full-Time,High School,0,0
+24,51864.89,488.0,16.0,22432.56,2,North,Full-Time,High School,0,0
+23,85021.98,830.0,28.0,32971.51,3,East,Full-Time,Master,0,1
+61,35132.67,608.0,27.0,17977.74,1,South,Full-Time,High School,0,0
+59,65570.67,445.0,39.0,32063.68,0,North,Full-Time,High School,0,0
+57,60749.2,302.0,19.0,23945.12,3,North,Part-Time,Master,0,0
+44,39357.15,536.0,13.0,13367.22,4,East,Full-Time,Master,0,0
+58,58193.13,842.0,21.0,13517.96,0,North,Full-Time,Master,0,0
+27,76825.34,537.0,6.0,42364.7,1,Central,Self-Employed,Bachelor,0,0
+69,49171.75,684.0,4.0,23122.94,1,West,Full-Time,Bachelor,0,0
+46,24544.67,439.0,20.0,44684.25,4,West,Part-Time,PhD,0,0
+71,54683.87,726.0,33.0,18836.36,3,North,Full-Time,High School,0,0
+26,38756.38,726.0,21.0,28494.46,3,West,Full-Time,High School,0,0
+46,48837.86,634.0,31.0,53712.12,3,West,Unemployed,Master,0,0
+57,53531.42,724.0,7.0,12311.36,1,South,Full-Time,Bachelor,1,0
+46,24298.26,618.0,17.0,2226.23,4,North,Full-Time,Master,0,0
+43,25918.15,508.0,24.0,40439.08,0,East,Unemployed,High School,0,0
+27,63677.2,705.0,13.0,15078.29,0,West,Part-Time,None,1,0
+39,45591.06,759.0,0.0,24751.52,4,North,Part-Time,Bachelor,0,0
+31,10000.0,762.0,2.0,17968.98,3,North,Full-Time,Bachelor,0,0
+35,69127.19,417.0,37.0,28217.95,1,South,Full-Time,PhD,0,0
+56,59902.66,672.0,24.0,13593.57,2,East,Part-Time,Bachelor,0,0
+53,42150.25,302.0,10.0,22840.72,0,East,Full-Time,Master,0,0
+52,31297.06,614.0,10.0,30397.78,4,East,Full-Time,Bachelor,0,0
+38,70044.54,614.0,1.0,12900.29,4,South,Self-Employed,Master,0,0
+72,61288.31,499.0,37.0,16598.99,1,North,Full-Time,Master,0,0
+22,97886.84,846.0,4.0,20831.41,2,North,Full-Time,Bachelor,0,0
+37,62563.39,785.0,30.0,7854.21,1,North,Full-Time,High School,0,0
+24,61978.66,321.0,9.0,19929.27,2,West,Full-Time,High School,0,0
+37,51995.3,414.0,13.0,26425.56,1,West,Part-Time,None,0,0
+72,69701.97,414.0,,20205.41,1,East,Self-Employed,None,0,0
+38,66251.53,793.0,32.0,21743.48,2,North,Full-Time,None,0,0
+69,77531.05,585.0,1.0,24761.18,5,East,Full-Time,High School,0,0
+46,45616.19,700.0,14.0,17131.08,4,Central,Full-Time,Bachelor,0,0
+57,47162.67,745.0,11.0,33292.75,1,South,Full-Time,Master,0,0
+44,46376.14,722.0,10.0,42231.74,5,East,Full-Time,Master,1,0
+33,69234.43,348.0,7.0,19427.44,1,East,Unemployed,High School,0,0
+61,81970.74,377.0,36.0,30822.38,5,South,Full-Time,Bachelor,0,0
+73,46740.87,517.0,,22124.59,1,East,Full-Time,High School,0,0
+33,47354.07,486.0,16.0,29385.85,3,East,Unemployed,Bachelor,1,0
+62,60653.39,710.0,15.0,43789.35,1,East,Full-Time,High School,0,0
+32,50576.29,385.0,39.0,31103.91,4,West,Unemployed,High School,0,0
+58,72136.97,504.0,13.0,3719.03,1,East,Full-Time,High School,0,0
+62,14468.01,430.0,13.0,30447.95,5,North,Full-Time,PhD,0,0
+43,40119.31,403.0,13.0,39794.36,0,North,Unemployed,Master,1,0
+60,40916.51,395.0,13.0,22340.85,3,East,Full-Time,PhD,0,0
+33,13233.59,407.0,3.0,36947.62,0,Central,Full-Time,Bachelor,0,0
+22,37654.51,610.0,,16718.61,5,North,Full-Time,Bachelor,0,0
+23,38527.19,525.0,1.0,7173.53,2,North,Part-Time,Bachelor,1,0
+43,51380.12,539.0,9.0,26694.03,4,West,Part-Time,Bachelor,0,0
+69,75033.39,563.0,8.0,3922.28,5,East,Full-Time,Bachelor,0,0
+25,50588.91,707.0,11.0,22122.75,3,South,Part-Time,Master,0,0
+43,36445.35,773.0,30.0,40442.11,0,South,Part-Time,Master,0,0
+58,53974.82,589.0,23.0,2082.85,1,West,Full-Time,Master,0,0
+29,73885.13,653.0,39.0,9646.04,1,East,Full-Time,High School,0,0
+59,37432.74,706.0,14.0,12615.61,5,West,Full-Time,Bachelor,1,0
+35,38609.65,679.0,37.0,24240.16,5,South,Full-Time,High School,0,0
+64,65053.88,373.0,1.0,20611.4,2,East,Full-Time,High School,0,0
+51,,840.0,20.0,41789.64,5,Central,Full-Time,Master,0,0
+49,66654.72,390.0,31.0,36452.18,1,South,Full-Time,Bachelor,0,0
+28,54754.36,526.0,21.0,30943.28,4,South,Full-Time,Master,0,0
+44,67629.95,658.0,37.0,26747.56,2,North,Part-Time,High School,0,0
+66,36368.59,521.0,12.0,29718.76,1,West,Full-Time,None,0,0
+19,54782.48,433.0,1.0,14656.21,1,North,Unemployed,None,0,0
+61,51207.58,807.0,30.0,35286.52,2,South,Unemployed,Bachelor,0,0
+46,33113.96,339.0,2.0,11655.47,2,West,Part-Time,Master,0,0
+59,26857.4,435.0,30.0,35024.52,1,North,Unemployed,High School,0,0
+55,67343.48,846.0,29.0,39233.71,2,Central,Self-Employed,Master,0,0
+42,48682.86,701.0,33.0,27530.38,0,East,Full-Time,Master,0,1
+35,36598.95,347.0,19.0,22885.44,5,South,Part-Time,Master,0,0
+53,53268.78,715.0,35.0,29803.72,2,East,Full-Time,Master,0,0
+25,75304.34,833.0,6.0,1000.0,0,West,Part-Time,Bachelor,1,0
+51,13946.72,353.0,17.0,28627.1,3,East,Full-Time,Master,0,0
+23,28060.5,527.0,4.0,23639.75,5,Central,Full-Time,Bachelor,0,0
+55,38388.04,557.0,30.0,24392.46,2,Central,Full-Time,High School,0,0
+53,81301.22,372.0,28.0,33478.39,5,South,Unemployed,High School,0,0
+22,60086.57,410.0,32.0,24102.77,3,West,Full-Time,Master,0,0
+61,68811.71,395.0,30.0,11317.52,4,South,Full-Time,Bachelor,0,0
+41,34477.1,401.0,12.0,23303.17,1,Central,Full-Time,Bachelor,0,0
+62,,521.0,2.0,25810.67,0,South,Full-Time,PhD,0,0
+20,63060.65,555.0,37.0,26379.21,2,South,Self-Employed,Bachelor,0,0
+28,56048.94,430.0,19.0,26943.03,5,West,Self-Employed,Bachelor,0,0
+46,64877.3,459.0,3.0,37472.43,4,West,Full-Time,Bachelor,0,0
+28,51621.92,405.0,37.0,11967.59,4,North,Full-Time,Bachelor,0,0
+36,60006.59,737.0,39.0,27108.41,5,East,Full-Time,Master,0,0
+55,57846.14,416.0,17.0,40479.16,2,South,Full-Time,Bachelor,0,0
+26,68999.81,799.0,30.0,4184.66,1,West,Self-Employed,Bachelor,1,0
+56,69526.15,596.0,1.0,27155.76,5,East,Part-Time,Master,0,0
+23,25842.3,741.0,3.0,17975.46,3,Central,Full-Time,Master,0,0
+27,14549.17,650.0,11.0,20551.48,1,Central,Part-Time,Master,1,0
+51,73031.42,446.0,26.0,14142.31,1,West,Full-Time,High School,0,0
+63,76379.05,630.0,5.0,22965.39,5,West,Part-Time,Master,0,0
+27,36628.79,450.0,1.0,47095.07,0,Central,Full-Time,Bachelor,0,0
+35,21522.96,365.0,26.0,9826.84,0,North,Part-Time,High School,0,0
+70,56782.63,440.0,30.0,10964.68,4,West,Full-Time,Bachelor,0,0
+74,71755.09,451.0,29.0,9376.79,0,West,Unemployed,Master,0,0
+51,87356.7,374.0,31.0,45729.02,1,North,Full-Time,Bachelor,0,0
+43,,312.0,32.0,19451.92,5,Central,Full-Time,Master,0,0
+37,48309.1,819.0,24.0,24692.33,2,West,Full-Time,Bachelor,0,0
+52,38923.65,582.0,20.0,20166.6,4,South,Full-Time,High School,0,0
+51,55206.12,521.0,34.0,13666.93,2,East,Full-Time,Bachelor,0,0
+34,49613.24,811.0,,22178.19,0,East,Part-Time,Bachelor,1,0
+19,36728.78,423.0,3.0,54498.92,1,Central,Part-Time,Bachelor,0,0
+26,91877.6,521.0,30.0,41704.85,4,Central,Full-Time,Master,1,0
+72,87133.03,765.0,11.0,14764.75,0,Central,Part-Time,Master,0,0
+41,75448.88,647.0,39.0,32770.89,3,West,Part-Time,High School,0,0
+45,38424.69,519.0,16.0,15021.73,2,North,Full-Time,Bachelor,0,0
+44,70390.35,440.0,34.0,3683.59,2,Central,Full-Time,High School,0,0
+62,66513.28,319.0,1.0,37234.13,5,North,Full-Time,Bachelor,0,0
+21,62965.82,346.0,26.0,38921.11,3,North,Full-Time,High School,1,0
+22,77493.97,389.0,17.0,37552.63,3,North,Self-Employed,Bachelor,0,0
+33,66436.68,732.0,18.0,19361.62,2,Central,Unemployed,Master,0,0
+45,68320.26,651.0,10.0,22998.69,2,East,Part-Time,Bachelor,0,0
+56,66464.31,538.0,38.0,33997.19,4,South,Full-Time,High School,0,0
+45,61134.25,730.0,15.0,29697.95,0,North,Part-Time,Bachelor,0,0
+43,22895.0,388.0,34.0,20276.35,1,East,Part-Time,Bachelor,1,0
+71,56505.18,416.0,17.0,5571.14,3,West,Full-Time,Bachelor,0,0
+27,44988.54,516.0,1.0,26366.5,3,Central,Self-Employed,High School,0,0
+50,31962.86,804.0,35.0,37948.12,0,East,Full-Time,Master,0,0
+48,85272.7,637.0,7.0,10628.94,4,West,Full-Time,Bachelor,0,0
+44,86121.92,768.0,10.0,32665.11,3,Central,Full-Time,Bachelor,1,0
+64,79465.97,436.0,34.0,28978.5,1,Central,Full-Time,High School,1,0
+33,59593.84,766.0,35.0,34001.78,4,South,Self-Employed,Bachelor,0,0
+72,79311.25,339.0,36.0,35463.71,5,Central,Full-Time,Bachelor,1,0
+36,55216.96,425.0,17.0,16666.42,2,East,Full-Time,High School,0,0
+49,58650.35,587.0,30.0,5596.49,1,Central,Full-Time,Bachelor,0,0
+47,35317.52,327.0,13.0,18597.77,1,North,Full-Time,Bachelor,0,0
+66,62145.84,772.0,29.0,35669.53,3,North,Full-Time,Master,0,0
+43,,777.0,20.0,18495.95,0,Central,Full-Time,PhD,0,0
+34,31552.26,597.0,2.0,16671.48,2,West,Part-Time,High School,0,0
+19,54078.45,468.0,16.0,3143.8,0,North,Full-Time,High School,0,0
+38,53564.87,354.0,18.0,46031.77,0,Central,Self-Employed,Master,1,0
+65,87356.1,640.0,10.0,34908.56,2,North,Full-Time,None,1,0
+18,71095.84,595.0,14.0,34238.75,4,West,Part-Time,Master,0,0
+69,55206.02,717.0,20.0,36612.7,5,South,Self-Employed,High School,0,1
+48,59478.17,631.0,,31920.5,0,North,Full-Time,High School,0,0
+25,55795.82,370.0,6.0,22068.05,1,Central,Full-Time,High School,0,1
+35,51347.55,366.0,30.0,23034.83,2,Central,Unemployed,Master,0,0
+49,35516.31,729.0,14.0,19869.23,3,North,Full-Time,Bachelor,0,0
+35,52281.07,387.0,24.0,56616.89,5,North,Part-Time,Bachelor,0,0
+24,41570.23,816.0,22.0,31670.94,4,West,Full-Time,Bachelor,0,0
+55,32494.32,358.0,22.0,19434.39,3,North,Full-Time,High School,0,0
+56,64201.99,700.0,16.0,30585.96,0,West,Full-Time,Bachelor,0,0
+24,62042.76,836.0,19.0,12869.57,0,Central,Self-Employed,High School,1,0
+34,22839.26,542.0,32.0,43054.08,0,West,Full-Time,Bachelor,0,0
+31,52791.68,331.0,38.0,17067.17,3,South,Self-Employed,Master,0,1
+55,72922.62,782.0,10.0,31013.03,1,North,Part-Time,Bachelor,0,0
+59,74066.03,403.0,26.0,37791.73,1,West,Full-Time,Bachelor,0,0
+59,73465.06,590.0,38.0,29617.22,4,North,Full-Time,Master,0,1
+71,55700.44,841.0,0.0,26133.64,4,East,Full-Time,Master,0,0
+61,39789.18,709.0,31.0,25129.63,2,East,Full-Time,High School,0,0
+36,35493.42,325.0,,24322.71,5,West,Part-Time,High School,0,1
+24,61202.89,751.0,38.0,18079.62,4,South,Full-Time,Bachelor,0,0
+53,61827.04,388.0,23.0,19606.2,4,West,Full-Time,High School,0,0
+70,,712.0,33.0,42755.08,5,West,Part-Time,High School,0,0
+73,74799.63,641.0,6.0,23697.56,1,South,Part-Time,High School,0,0
+31,52619.88,458.0,5.0,15570.44,4,South,Full-Time,High School,0,0
+31,32604.29,532.0,37.0,18804.43,5,North,Part-Time,Bachelor,0,0
+20,49256.08,364.0,21.0,38204.45,5,East,Full-Time,Bachelor,0,0
+26,58910.16,842.0,22.0,33107.28,3,South,Part-Time,High School,0,0
+49,51362.5,431.0,6.0,31723.95,4,North,Full-Time,Master,0,0
+49,44597.91,469.0,9.0,21909.75,5,East,Full-Time,High School,0,0
+39,59551.93,576.0,32.0,31880.35,5,East,Full-Time,Bachelor,0,0
+35,45928.76,669.0,12.0,17277.27,5,North,Part-Time,High School,0,0
+65,43694.81,577.0,23.0,21884.63,4,North,Part-Time,Master,0,0
+44,60606.15,577.0,12.0,36637.65,2,North,Full-Time,None,0,0
+64,47764.13,620.0,10.0,35491.33,4,West,Self-Employed,Bachelor,1,0
+72,59393.88,771.0,6.0,13217.08,2,South,Self-Employed,High School,1,0
+36,59917.67,517.0,37.0,14733.68,4,North,Full-Time,High School,0,0
+29,34490.28,757.0,37.0,26304.43,4,North,Part-Time,High School,0,0
+72,46337.66,732.0,4.0,45713.59,5,Central,Full-Time,Master,0,0
+54,80879.98,828.0,14.0,2013.22,3,South,Unemployed,High School,0,0
+34,34082.57,802.0,22.0,28340.0,2,West,Full-Time,None,0,0
+53,16900.22,738.0,15.0,8487.48,0,East,Full-Time,Bachelor,0,0
+47,21486.79,435.0,28.0,17388.03,3,North,Full-Time,Bachelor,0,0
+69,55523.98,725.0,10.0,20626.86,3,South,Full-Time,Master,0,0
+32,55556.51,705.0,2.0,19953.9,3,North,Part-Time,High School,0,0
+74,52883.0,459.0,13.0,18594.45,4,West,Full-Time,Master,0,0
+71,76855.42,672.0,23.0,25086.48,5,South,Full-Time,High School,1,0
+28,10000.0,439.0,7.0,18576.93,0,East,Full-Time,Master,0,0
+27,62126.81,587.0,32.0,7450.51,2,North,Self-Employed,Bachelor,0,0
+48,83105.89,,0.0,34358.44,4,Central,Self-Employed,High School,1,0
+20,34699.95,403.0,2.0,34034.47,4,South,Full-Time,Master,0,0
+35,48163.48,485.0,20.0,35118.09,4,East,Full-Time,High School,0,0
+42,41447.95,737.0,20.0,6511.19,4,Central,Full-Time,High School,0,1
+73,38901.77,549.0,11.0,28587.02,5,West,Self-Employed,Master,0,0
+74,49127.28,828.0,10.0,33111.75,5,West,Part-Time,Bachelor,0,0
+26,80694.74,304.0,2.0,12625.58,3,Central,Part-Time,Master,0,0
+68,88072.96,697.0,26.0,25110.08,1,North,Self-Employed,Bachelor,0,0
+23,48953.09,747.0,15.0,23604.8,3,Central,Full-Time,Bachelor,0,0
+60,89291.08,804.0,4.0,47105.81,4,East,Part-Time,High School,1,0
+66,55640.38,386.0,15.0,48093.95,0,East,Full-Time,High School,0,0
+68,86566.44,841.0,37.0,5027.72,4,South,Full-Time,None,0,0
+30,53320.62,515.0,10.0,54927.12,3,West,Full-Time,High School,0,0
+68,57359.04,493.0,35.0,14017.29,5,Central,Full-Time,Bachelor,0,0
+24,61578.54,495.0,10.0,36768.08,1,West,Unemployed,High School,0,0
+47,112219.37,651.0,7.0,36645.98,5,North,Full-Time,High School,0,0
+44,70323.14,662.0,10.0,13051.72,2,East,Self-Employed,Bachelor,1,0
+36,42269.24,560.0,12.0,30919.21,3,West,Part-Time,Master,0,0
+19,72441.96,339.0,4.0,23709.6,3,South,Part-Time,Master,0,1
+62,48487.01,842.0,23.0,31651.96,3,West,Unemployed,Master,0,0
+37,46184.5,422.0,13.0,27768.07,5,West,Full-Time,High School,0,0
+55,71354.82,351.0,28.0,39356.07,1,North,Full-Time,Bachelor,0,0
+41,55559.54,628.0,19.0,25904.79,4,East,Full-Time,High School,0,0
+39,60014.37,526.0,17.0,22985.51,5,North,Full-Time,Master,0,0
+68,55251.73,638.0,18.0,38152.77,1,East,Self-Employed,Bachelor,0,0
+23,61058.5,781.0,6.0,31964.75,1,South,Full-Time,Bachelor,0,0
+59,62649.39,353.0,28.0,33781.76,2,Central,Full-Time,High School,0,0
+60,20134.6,456.0,4.0,17024.96,4,Central,Full-Time,Master,0,0
+39,66998.31,584.0,28.0,12456.85,5,East,Full-Time,Master,1,0
+32,37323.65,733.0,39.0,18187.33,4,East,Part-Time,Master,0,0
+18,29038.62,630.0,30.0,17550.14,4,West,Full-Time,High School,1,0
+71,,510.0,18.0,34434.39,2,West,Self-Employed,None,0,0
+72,56511.66,635.0,12.0,36711.81,3,West,Part-Time,High School,0,0
+31,42516.89,838.0,34.0,23138.44,1,West,Self-Employed,Bachelor,0,0
+19,69958.57,564.0,10.0,42171.03,2,Central,Full-Time,High School,0,0
+24,30840.85,785.0,19.0,41421.63,1,Central,Part-Time,High School,0,0
+21,47675.01,728.0,30.0,27920.79,0,North,Full-Time,Bachelor,0,0
+65,44472.27,465.0,36.0,15137.3,5,East,Full-Time,High School,1,0
+68,54161.43,437.0,36.0,43904.52,4,East,Part-Time,Bachelor,0,0
+26,60019.56,723.0,3.0,24267.79,3,East,Part-Time,Bachelor,0,1
+60,36857.93,414.0,35.0,26513.98,0,East,Full-Time,Master,0,0
+28,68037.09,485.0,4.0,20924.74,0,West,Self-Employed,Bachelor,0,0
+38,56134.04,429.0,23.0,14322.52,0,East,Full-Time,Bachelor,0,0
+52,20944.97,633.0,37.0,7376.33,4,South,Part-Time,High School,0,0
+59,19745.35,461.0,26.0,32594.42,1,East,Unemployed,Master,0,0
+67,,662.0,37.0,15599.19,1,Central,Full-Time,High School,0,0
+20,,814.0,13.0,61714.37,5,South,Self-Employed,High School,0,0
+29,53138.44,756.0,12.0,11967.12,5,North,Part-Time,High School,0,0
+33,54496.32,821.0,13.0,9911.41,4,Central,Self-Employed,Bachelor,0,0
+35,59060.08,313.0,14.0,31121.66,1,North,Part-Time,Bachelor,0,0
+74,72057.69,550.0,27.0,43351.76,3,West,Part-Time,Bachelor,1,0
+62,35000.11,421.0,18.0,25775.08,1,Central,Full-Time,Bachelor,0,0
+36,33904.51,804.0,29.0,31866.91,5,South,Part-Time,Bachelor,1,0
+73,35320.17,691.0,16.0,2877.43,0,South,Full-Time,Bachelor,0,0
+46,60200.5,476.0,12.0,16869.86,4,South,Unemployed,High School,0,0
+46,77409.05,609.0,7.0,12116.61,3,North,Full-Time,Bachelor,0,0
+42,47235.89,632.0,22.0,2259.45,4,North,Full-Time,Bachelor,0,1
+26,10000.0,572.0,35.0,26403.76,2,North,Self-Employed,Bachelor,0,1
+71,24328.13,560.0,34.0,1000.0,0,East,Full-Time,High School,0,0
+18,40005.34,330.0,10.0,9133.65,4,East,Full-Time,Bachelor,0,0
+27,44960.88,548.0,19.0,18553.67,3,North,Part-Time,Bachelor,1,0
+31,47649.0,491.0,28.0,15024.57,2,Central,Full-Time,High School,0,0
+33,,750.0,24.0,29756.9,2,West,Full-Time,High School,0,0
+25,49388.57,775.0,2.0,28666.96,2,North,Full-Time,Bachelor,0,0
+19,73888.11,712.0,23.0,35725.58,2,Central,Full-Time,Bachelor,0,0
+56,42831.69,316.0,1.0,34028.6,1,North,Full-Time,Bachelor,0,0
+73,39478.28,762.0,4.0,38689.75,1,East,Full-Time,High School,0,0
+24,63619.76,518.0,26.0,24976.98,1,East,Full-Time,Master,0,0
+34,27358.44,529.0,4.0,28641.6,0,East,Full-Time,High School,0,0
+46,62014.45,819.0,13.0,31138.16,5,Central,Full-Time,Bachelor,0,1
+70,56845.96,777.0,23.0,26699.88,1,Central,Part-Time,Master,0,0
+57,52346.04,327.0,26.0,20233.67,0,South,Part-Time,Bachelor,0,0
+61,83588.97,497.0,17.0,21010.69,0,East,Full-Time,High School,0,0
+51,43800.27,712.0,3.0,15189.3,5,Central,Full-Time,Bachelor,0,0
+41,92085.37,596.0,31.0,30059.4,2,West,Self-Employed,None,1,0
+29,50942.23,441.0,37.0,23871.82,1,Central,Part-Time,None,0,0
+67,32013.7,588.0,35.0,17041.91,2,East,Full-Time,High School,0,0
+63,56258.55,776.0,29.0,17053.06,0,South,Full-Time,Master,1,0
+19,35627.59,422.0,16.0,10475.22,1,East,Full-Time,Bachelor,0,0
+58,41468.39,710.0,35.0,36746.1,1,Central,Self-Employed,High School,0,0
+22,62146.6,704.0,19.0,25943.41,4,Central,Unemployed,Bachelor,0,0
+60,65000.48,787.0,5.0,14646.4,0,West,Unemployed,Bachelor,1,0
+65,43800.98,463.0,34.0,34702.57,2,West,Full-Time,Bachelor,1,0
+25,72773.29,418.0,12.0,18274.61,4,East,Full-Time,Master,0,0
+42,75835.14,601.0,37.0,8121.99,5,South,Full-Time,Bachelor,0,1
+25,80853.43,592.0,14.0,37254.67,3,East,Full-Time,Bachelor,0,1
+50,64529.44,525.0,34.0,18554.84,1,East,Full-Time,Bachelor,0,0
+70,79541.72,728.0,21.0,20093.21,2,Central,Part-Time,High School,0,0
+22,21145.63,739.0,18.0,25494.16,1,East,Full-Time,Bachelor,0,0
+40,49277.68,435.0,11.0,38711.07,3,West,Unemployed,None,0,0
+73,39393.91,737.0,33.0,25240.45,1,North,Full-Time,Bachelor,0,1
+35,57146.07,426.0,2.0,10610.59,3,West,Full-Time,High School,0,0
+25,44713.91,524.0,18.0,31526.52,3,East,Self-Employed,Bachelor,0,0
+45,52009.16,314.0,14.0,19180.12,5,Central,Part-Time,None,1,0
+46,88879.15,487.0,21.0,47655.09,2,East,Full-Time,PhD,0,0
+55,51945.04,827.0,10.0,24986.56,5,East,Part-Time,Bachelor,0,0
+35,62448.26,543.0,26.0,1000.0,2,North,Full-Time,Bachelor,1,0
+72,50819.15,690.0,15.0,29288.38,4,Central,Full-Time,Bachelor,0,0
+47,56362.84,359.0,7.0,48335.17,3,West,Full-Time,Master,0,0
+34,55108.3,649.0,7.0,43911.04,4,Central,Full-Time,Master,1,0
+72,63069.83,504.0,27.0,46971.45,2,North,Part-Time,Master,0,0
+70,75975.54,709.0,10.0,12762.88,4,South,Full-Time,Bachelor,0,0
+46,84653.09,810.0,12.0,35945.83,2,Central,Part-Time,High School,1,0
+19,60573.16,592.0,25.0,16336.07,2,North,Self-Employed,Bachelor,0,0
+52,65611.84,356.0,13.0,27691.47,2,East,Full-Time,High School,0,0
+49,34284.44,561.0,15.0,9724.57,4,East,Full-Time,High School,1,0
+26,53418.22,367.0,9.0,17266.53,3,Central,Full-Time,Bachelor,0,0
+54,71925.21,547.0,13.0,16885.04,0,Central,Self-Employed,Bachelor,0,0
+65,70587.44,333.0,27.0,35782.66,4,Central,Part-Time,Master,0,0
+24,58808.98,652.0,21.0,34608.63,4,South,Part-Time,Master,0,1
+59,70955.09,470.0,39.0,28321.84,0,East,Full-Time,Master,0,0
+25,63833.8,410.0,30.0,8794.94,5,West,Full-Time,Master,0,0
+60,76605.51,309.0,0.0,21260.33,3,Central,Full-Time,Master,1,0
+41,60208.46,788.0,15.0,16046.6,0,North,Full-Time,High School,0,0
+18,48597.43,760.0,11.0,35436.11,2,Central,Part-Time,Bachelor,0,0
+73,61045.14,746.0,23.0,39138.22,5,South,Full-Time,High School,0,0
+27,10000.0,331.0,10.0,37676.63,1,North,Full-Time,High School,1,0
+51,61891.94,492.0,38.0,15937.37,5,West,Full-Time,High School,0,0
+28,10000.0,834.0,11.0,1000.0,2,West,Full-Time,Master,0,0
+71,23977.66,618.0,20.0,3796.46,1,North,Part-Time,Master,0,0
+60,63131.83,370.0,4.0,42059.52,2,North,Full-Time,PhD,0,1
+63,,377.0,36.0,20184.94,3,Central,Unemployed,None,1,0
+42,34076.28,444.0,36.0,15991.3,4,Central,Self-Employed,Master,1,0
+44,42182.16,834.0,31.0,44711.92,5,North,Self-Employed,High School,0,0
+54,79669.74,393.0,14.0,40181.92,1,Central,Part-Time,Master,0,0
+62,46287.46,796.0,2.0,25293.38,5,Central,Part-Time,Master,0,0
+66,95372.57,672.0,28.0,21479.16,3,Central,Part-Time,Master,0,1
+19,54965.44,807.0,17.0,23414.79,0,South,Full-Time,High School,0,0
+55,62344.65,754.0,39.0,27725.95,5,East,Full-Time,High School,0,0
+24,84103.74,482.0,27.0,44200.57,2,Central,Part-Time,PhD,0,0
+34,57358.49,755.0,21.0,30069.61,3,Central,Full-Time,High School,1,0
+65,,393.0,39.0,33712.35,4,West,Full-Time,Bachelor,0,0
+32,53024.91,460.0,32.0,39031.24,0,North,Self-Employed,Bachelor,0,0
+63,54359.01,416.0,18.0,10963.89,1,North,Full-Time,High School,0,0
+44,30434.65,373.0,0.0,34058.34,4,South,Full-Time,High School,0,0
+31,50395.02,349.0,3.0,21465.17,1,North,Part-Time,None,0,0
+37,41640.54,403.0,17.0,1000.0,0,North,Full-Time,Master,0,0
+48,,366.0,22.0,1000.0,0,North,Self-Employed,PhD,0,0
+61,55623.01,509.0,1.0,12782.59,4,West,Full-Time,High School,0,0
+52,49909.68,339.0,5.0,31374.68,0,East,Self-Employed,High School,1,0
+71,53088.73,333.0,28.0,26365.59,0,East,Self-Employed,Bachelor,1,0
+67,59016.2,844.0,30.0,27212.4,3,Central,Full-Time,Bachelor,0,0
+60,66102.66,348.0,1.0,48411.32,0,East,Full-Time,High School,0,0
+52,37005.18,340.0,20.0,9770.92,3,East,Full-Time,Master,0,0
+34,36251.42,316.0,3.0,24670.8,3,South,Full-Time,None,0,0
+41,74884.23,372.0,28.0,28653.23,3,East,Full-Time,Bachelor,1,0
+24,47577.94,590.0,33.0,16164.72,2,North,Unemployed,Bachelor,1,0
+39,29496.84,754.0,34.0,25339.92,4,East,Full-Time,Bachelor,0,0
+70,62988.63,704.0,23.0,5800.61,3,Central,Self-Employed,High School,0,0
+42,63340.66,619.0,25.0,41918.87,2,East,Full-Time,High School,0,0
+24,27447.13,346.0,37.0,16820.63,0,South,Unemployed,Bachelor,0,0
+55,59130.67,725.0,24.0,49376.8,1,West,Full-Time,Bachelor,1,0
+72,68240.5,320.0,17.0,24610.31,0,Central,Full-Time,Bachelor,0,0
+67,61738.96,647.0,30.0,37336.64,0,East,Part-Time,Master,0,0
+33,66375.67,525.0,23.0,24360.37,1,South,Full-Time,High School,0,0
+43,29723.16,785.0,33.0,24631.07,1,West,Self-Employed,High School,0,0
+48,60958.72,469.0,20.0,17991.65,0,North,Full-Time,High School,0,0
+32,49552.84,651.0,34.0,26429.49,1,Central,Full-Time,High School,1,0
+33,46309.78,541.0,1.0,28815.98,3,South,Full-Time,Bachelor,0,0
+31,70670.0,587.0,1.0,15588.9,1,South,Part-Time,Master,0,1
+74,81626.94,816.0,3.0,23499.47,1,West,Full-Time,Master,0,0
+60,87298.66,692.0,22.0,17678.81,0,North,Full-Time,Bachelor,0,0
+65,78666.54,528.0,28.0,52595.97,0,South,Full-Time,Bachelor,0,0
+64,53024.78,546.0,8.0,23923.23,0,North,Full-Time,High School,0,0
+72,61348.96,687.0,6.0,43542.79,2,South,Full-Time,Bachelor,0,0
+24,68802.81,490.0,34.0,22652.53,3,East,Unemployed,Bachelor,0,1
+68,57181.2,392.0,30.0,28111.45,4,North,Full-Time,Master,0,0
+21,57353.76,557.0,25.0,9143.63,3,South,Part-Time,Bachelor,0,0
+45,69827.56,337.0,19.0,19635.13,3,West,Full-Time,High School,1,0
+51,53932.91,393.0,16.0,27526.42,5,Central,Full-Time,High School,0,0
+38,41872.84,531.0,0.0,44032.05,1,North,Full-Time,High School,0,0
+26,47539.48,738.0,7.0,27663.79,4,West,Full-Time,PhD,0,0
+28,66410.39,729.0,35.0,41604.64,5,North,Full-Time,High School,0,0
+65,55053.88,443.0,13.0,32688.75,3,East,Full-Time,High School,0,0
+36,61123.78,532.0,28.0,44528.82,5,Central,Full-Time,High School,0,0
+35,67061.43,384.0,28.0,24291.49,0,West,Unemployed,Master,0,0
+70,48252.85,715.0,12.0,53682.67,5,South,Full-Time,Bachelor,0,0
+26,68612.47,435.0,8.0,19175.25,3,South,Full-Time,Bachelor,0,0
+70,61819.17,739.0,27.0,15802.46,1,West,Full-Time,Bachelor,1,0
+70,32773.36,763.0,3.0,10479.37,0,Central,Full-Time,High School,0,0
+52,80961.49,678.0,19.0,52972.3,4,South,Part-Time,Master,1,0
+27,45986.59,481.0,35.0,34833.37,2,North,Full-Time,High School,0,0
+26,25208.28,824.0,28.0,20990.55,1,East,Part-Time,High School,1,0
+34,36189.21,677.0,30.0,39988.27,2,West,Full-Time,Bachelor,0,0
+50,36621.19,655.0,3.0,33252.31,5,East,Full-Time,High School,0,0
+26,55939.12,771.0,7.0,48593.53,2,Central,Unemployed,High School,0,0
+43,50070.69,784.0,11.0,6426.01,0,Central,Full-Time,Master,0,0
+24,48937.02,342.0,11.0,21815.68,1,West,Self-Employed,Bachelor,0,0
+48,66154.64,784.0,7.0,19449.74,0,North,Full-Time,High School,0,0
+19,61117.76,720.0,38.0,1315.81,4,Central,Unemployed,Bachelor,0,0
+58,60688.86,413.0,,37723.93,4,West,Full-Time,Master,0,0
+21,62376.91,469.0,28.0,21755.24,5,South,Full-Time,High School,0,0
+29,66090.42,713.0,23.0,33875.57,3,East,Self-Employed,High School,0,0
+27,17056.84,419.0,24.0,53317.26,4,Central,Full-Time,Bachelor,1,0
+65,48440.11,548.0,8.0,20761.08,2,Central,Full-Time,Bachelor,0,0
+21,,678.0,12.0,19946.16,3,East,Unemployed,None,0,0
+42,55649.08,657.0,24.0,26423.97,0,North,Part-Time,Bachelor,0,0
+51,54916.61,800.0,11.0,36846.97,3,West,Part-Time,High School,0,0
+47,73819.58,361.0,27.0,18199.44,3,West,Part-Time,Bachelor,0,0
+56,76377.42,462.0,1.0,17428.46,0,North,Self-Employed,Bachelor,0,0
+63,58649.95,841.0,2.0,37686.27,3,Central,Self-Employed,High School,0,0
+40,45993.5,612.0,29.0,29543.67,4,South,Part-Time,Bachelor,0,0
+65,63732.9,436.0,24.0,1000.0,2,Central,Full-Time,High School,0,0
+36,45497.48,459.0,1.0,10295.3,3,East,Full-Time,Master,0,0
+74,54974.93,486.0,35.0,43014.83,1,South,Part-Time,Master,0,0
+46,72750.45,604.0,0.0,29823.14,1,North,Self-Employed,Bachelor,0,0
+59,44960.12,456.0,38.0,15853.65,0,North,Full-Time,None,0,0
+67,,642.0,29.0,22955.08,1,West,Full-Time,None,0,0
+63,67193.22,544.0,39.0,25158.84,4,South,Full-Time,High School,0,0
+66,37813.75,635.0,37.0,33828.8,5,Central,Full-Time,Bachelor,0,0
+48,72530.09,385.0,12.0,8700.84,3,South,Self-Employed,Bachelor,0,0
+20,67574.19,642.0,30.0,14908.61,3,Central,Full-Time,High School,1,0
+46,56834.67,808.0,8.0,28275.47,3,Central,Part-Time,Bachelor,0,0
+28,41278.18,374.0,18.0,23801.99,2,North,Self-Employed,High School,0,0
+68,39534.29,480.0,9.0,31862.31,2,West,Unemployed,None,0,0
+31,45322.07,681.0,19.0,10245.91,3,Central,Full-Time,Bachelor,0,1
+30,64766.7,639.0,34.0,29285.54,4,South,Unemployed,Master,1,0
+32,37798.75,671.0,17.0,38099.0,2,North,Part-Time,Bachelor,0,0
+54,62875.22,607.0,3.0,30841.82,3,Central,Self-Employed,High School,0,0
+50,32648.4,675.0,12.0,26669.34,2,East,Full-Time,Master,0,0
+72,51326.77,635.0,31.0,23849.4,1,North,Full-Time,High School,0,0
+41,,340.0,20.0,14981.79,1,Central,Part-Time,High School,0,0
+34,99012.34,713.0,22.0,24136.02,0,West,Full-Time,Bachelor,0,0
+20,30208.32,545.0,17.0,40116.47,2,North,Full-Time,Bachelor,1,0
+18,81496.26,328.0,11.0,23571.66,4,South,Part-Time,Bachelor,1,0
+39,57697.16,524.0,23.0,14322.35,4,North,Part-Time,High School,0,1
+70,62401.09,539.0,25.0,19093.03,5,Central,Full-Time,Bachelor,1,0
+47,,347.0,35.0,27410.2,0,North,Full-Time,High School,0,0
+68,63005.08,847.0,24.0,20517.83,4,West,Full-Time,High School,0,0
+23,52233.67,422.0,39.0,30823.64,4,East,Unemployed,Bachelor,1,0
+23,81172.9,481.0,33.0,31274.13,2,East,Unemployed,High School,0,0
+65,46783.52,542.0,3.0,35667.8,1,Central,Full-Time,High School,0,0
+24,75380.22,757.0,15.0,42082.71,2,Central,Full-Time,Bachelor,0,0
+20,43401.39,708.0,15.0,36950.3,4,North,Full-Time,Master,0,0
+41,53915.47,724.0,0.0,13789.13,5,North,Full-Time,High School,0,0
+70,35704.67,430.0,7.0,14157.59,3,North,Self-Employed,Bachelor,0,0
+57,63190.43,764.0,30.0,24090.74,3,West,Full-Time,High School,0,0
+23,81012.27,756.0,14.0,19585.9,3,East,Full-Time,None,0,0
+65,53607.59,555.0,5.0,11340.08,0,North,Full-Time,High School,0,0
+66,51456.06,600.0,11.0,19699.7,3,South,Full-Time,High School,0,0
+63,34936.89,320.0,10.0,19305.84,0,East,Self-Employed,Bachelor,0,0
+69,50872.73,718.0,6.0,16937.83,5,West,Part-Time,High School,0,0
+31,26329.7,828.0,4.0,21210.53,5,South,Part-Time,High School,0,0
+73,38568.2,559.0,30.0,39141.41,3,Central,Full-Time,High School,0,0
+36,59082.15,597.0,32.0,27390.86,2,Central,Unemployed,Bachelor,0,0
+63,78742.24,574.0,19.0,54661.71,4,West,Full-Time,Bachelor,1,0
+51,105565.8,345.0,24.0,27046.1,3,East,Self-Employed,Bachelor,0,0
+62,44441.47,,36.0,21519.21,4,Central,Self-Employed,Master,0,0
+53,80835.4,696.0,33.0,25049.59,3,West,Full-Time,Bachelor,0,0
+54,59387.54,810.0,1.0,28077.9,1,East,Self-Employed,PhD,0,0
+53,52277.54,811.0,38.0,30223.05,0,East,Full-Time,Master,0,0
+62,62786.7,570.0,2.0,49920.54,1,Central,Part-Time,Master,0,0
+60,56114.5,827.0,1.0,14856.15,3,East,Full-Time,Master,0,0
+25,56987.12,590.0,16.0,35308.55,2,North,Full-Time,Bachelor,1,0
+65,47650.0,653.0,29.0,27493.01,3,Central,Full-Time,High School,0,0
+48,29834.03,631.0,3.0,6146.83,1,North,Full-Time,Bachelor,0,0
+36,27214.75,849.0,11.0,34248.39,5,West,Full-Time,High School,0,0
+47,66758.41,705.0,10.0,40211.48,2,West,Full-Time,Bachelor,1,0
+73,50019.4,366.0,15.0,14713.88,5,East,Part-Time,High School,1,0
+66,44270.4,339.0,39.0,24892.79,2,North,Full-Time,High School,0,0
+65,55153.1,525.0,13.0,4295.75,2,East,Full-Time,PhD,0,1
+44,69308.78,583.0,8.0,9894.32,3,Central,Unemployed,Bachelor,0,0
+62,58246.55,,4.0,37576.35,1,South,Unemployed,Bachelor,0,0
+39,43191.01,564.0,7.0,19403.0,1,West,Full-Time,Bachelor,0,0
+57,77073.27,583.0,5.0,11694.36,2,Central,Full-Time,Bachelor,0,0
+54,83425.34,806.0,22.0,27753.52,4,Central,Part-Time,Master,1,0
+32,63902.02,484.0,16.0,18731.05,0,East,Part-Time,Bachelor,0,0
+33,72525.94,571.0,,19350.14,2,South,Full-Time,Bachelor,0,0
+21,77355.28,606.0,33.0,33871.91,4,West,Part-Time,Bachelor,0,0
+25,75341.79,557.0,23.0,11059.2,4,East,Full-Time,Bachelor,0,0
+42,66053.79,832.0,6.0,14135.62,2,West,Full-Time,Bachelor,0,0
+45,65770.25,829.0,15.0,26848.96,0,West,Part-Time,None,0,0
+27,64353.89,582.0,12.0,36632.92,0,West,Part-Time,Bachelor,0,0
+41,35247.92,547.0,33.0,39857.92,2,South,Self-Employed,Bachelor,0,0
+52,67613.02,623.0,12.0,17019.26,4,West,Full-Time,Bachelor,0,0
+31,,399.0,5.0,36248.52,0,East,Full-Time,Bachelor,0,0
+37,40697.21,534.0,29.0,15590.29,5,Central,Full-Time,None,0,0
+38,78464.17,,17.0,46914.51,4,West,Full-Time,Master,0,0
+46,70123.96,379.0,3.0,11394.75,0,Central,Full-Time,Bachelor,1,0
+38,81773.17,352.0,27.0,40941.75,2,Central,Full-Time,Bachelor,1,0
+60,50109.86,622.0,8.0,17122.17,1,Central,Full-Time,Bachelor,0,0
+36,34259.52,300.0,34.0,49158.96,5,West,Part-Time,High School,0,0
+42,50672.13,655.0,33.0,32095.85,3,East,Full-Time,Bachelor,0,0
+39,56836.56,537.0,14.0,12807.8,1,North,Full-Time,Master,0,0
+28,56421.8,501.0,22.0,18733.14,1,South,Part-Time,Bachelor,0,0
+57,75406.25,723.0,22.0,34374.17,3,East,Full-Time,High School,0,1
+31,48497.13,596.0,26.0,37631.73,0,West,Self-Employed,Master,0,0
+34,61336.62,703.0,2.0,24151.41,1,East,Full-Time,Master,0,0
+63,37204.71,690.0,12.0,25535.9,0,East,Full-Time,High School,0,0
+72,63105.71,317.0,6.0,34100.24,3,North,Self-Employed,Bachelor,0,0
+56,55055.95,418.0,27.0,26581.58,4,West,Part-Time,Bachelor,0,0
+70,,613.0,2.0,9477.94,2,East,Part-Time,Master,0,0
+66,50755.07,836.0,20.0,15244.31,0,North,Part-Time,High School,0,0
+45,,384.0,29.0,27821.44,2,South,Full-Time,High School,0,0
+61,50137.21,358.0,37.0,39585.79,5,Central,Part-Time,Bachelor,0,0
+36,86884.14,817.0,11.0,44391.79,1,North,Self-Employed,High School,0,1
+44,53227.97,831.0,0.0,34354.35,0,East,Unemployed,Bachelor,1,0
+48,50609.87,392.0,28.0,28447.49,0,East,Full-Time,Master,0,0
+72,,520.0,0.0,33985.77,4,North,Full-Time,High School,1,0
+66,38904.27,644.0,2.0,16998.99,0,North,Self-Employed,Bachelor,0,0
+45,50264.68,407.0,39.0,23161.23,3,Central,Full-Time,None,0,0
+55,42654.65,479.0,34.0,15110.43,5,East,Full-Time,Bachelor,0,0
+29,79870.74,517.0,28.0,10015.09,3,South,Full-Time,Bachelor,0,0
+63,52031.12,652.0,33.0,29002.59,2,North,Full-Time,Bachelor,0,0
+49,78192.0,469.0,3.0,27226.16,1,East,Full-Time,High School,1,0
+48,56110.68,526.0,3.0,33251.83,0,West,Full-Time,High School,0,0
+61,55670.1,459.0,12.0,31553.34,0,West,Full-Time,Bachelor,0,0
+54,53401.66,717.0,,27911.73,5,North,Full-Time,Bachelor,0,0
+22,55068.33,384.0,35.0,31679.4,0,West,Unemployed,High School,0,0
+34,85938.31,426.0,2.0,24487.8,0,Central,Full-Time,High School,0,0
+28,13247.01,437.0,21.0,29954.7,4,South,Full-Time,Master,0,0
+59,18972.18,798.0,34.0,16286.27,2,North,Full-Time,High School,0,1
+20,45222.93,819.0,29.0,29436.47,2,Central,Full-Time,Master,0,0
+29,55261.5,575.0,9.0,33021.01,4,East,Unemployed,Bachelor,0,0
+52,67421.88,386.0,18.0,16963.82,3,West,Unemployed,Bachelor,0,0
+57,63515.57,715.0,21.0,25621.99,5,South,Full-Time,High School,0,0
+46,48083.57,570.0,30.0,17516.77,2,South,Full-Time,High School,0,0
+67,73342.79,767.0,17.0,18681.92,4,South,Full-Time,Bachelor,0,0
+70,73543.52,497.0,11.0,11500.85,5,South,Full-Time,Bachelor,0,0
+25,58313.04,849.0,31.0,40189.3,2,East,Full-Time,High School,0,0
+72,72327.84,743.0,35.0,37788.22,1,North,Full-Time,Bachelor,0,0
+53,59907.61,423.0,19.0,31449.21,5,Central,Full-Time,Bachelor,0,0
+54,,699.0,1.0,48666.35,1,East,Part-Time,High School,0,0
+23,67560.7,457.0,20.0,22729.05,0,Central,Full-Time,Bachelor,0,1
+53,56991.04,492.0,35.0,61381.15,3,East,Full-Time,High School,0,0
+59,55024.12,437.0,39.0,22269.65,5,South,Full-Time,Bachelor,0,0
+51,81513.16,675.0,16.0,28062.32,0,East,Full-Time,High School,0,0
+22,10884.3,444.0,6.0,20226.67,5,North,Full-Time,Bachelor,0,0
+47,29481.68,651.0,22.0,29467.91,4,Central,Full-Time,Bachelor,0,0
+71,33632.73,620.0,33.0,35027.38,5,West,Full-Time,Bachelor,0,0
+59,48461.31,712.0,37.0,23633.0,2,North,Full-Time,Bachelor,1,0
+25,50417.05,846.0,2.0,46320.64,1,East,Self-Employed,PhD,0,0
+72,27868.14,304.0,11.0,27869.79,3,East,Unemployed,Bachelor,0,0
+72,37267.16,844.0,19.0,28245.82,0,South,Full-Time,Master,0,0
+27,39504.85,360.0,3.0,14092.03,5,North,Full-Time,High School,0,0
+63,99233.63,589.0,35.0,30021.99,3,West,Part-Time,Bachelor,0,0
+41,87431.36,487.0,4.0,23391.67,2,South,Part-Time,High School,0,0
+51,47588.51,651.0,26.0,17701.12,3,East,Full-Time,Bachelor,0,0
+43,48455.5,696.0,,15682.31,4,South,Full-Time,Bachelor,0,0
+62,34314.33,772.0,27.0,57061.16,3,West,Full-Time,Master,0,0
+74,20653.65,521.0,30.0,21838.27,5,North,Part-Time,Bachelor,1,0
+63,52896.16,813.0,10.0,7516.17,5,South,Full-Time,Bachelor,0,0
+71,37038.66,477.0,33.0,16621.34,5,East,Full-Time,High School,0,0
+71,53472.69,412.0,16.0,24381.19,3,East,Full-Time,High School,0,0
+23,26196.29,508.0,2.0,31560.0,4,West,Full-Time,Master,1,0
+32,41284.46,590.0,14.0,31657.56,1,North,Full-Time,High School,0,0
+59,57675.29,667.0,13.0,33119.37,0,East,Part-Time,High School,1,0
+51,61591.77,758.0,20.0,17261.68,2,West,Full-Time,PhD,1,0
+20,62514.5,423.0,10.0,29085.29,5,South,Full-Time,None,0,0
+23,31231.2,466.0,18.0,14487.29,0,North,Full-Time,Bachelor,0,0
+47,70384.34,816.0,17.0,17564.28,3,Central,Self-Employed,Bachelor,0,0
+53,40596.19,541.0,13.0,13987.49,1,West,Full-Time,Master,0,0
+27,66391.44,432.0,27.0,10739.33,2,West,Full-Time,High School,0,0
+27,54808.5,842.0,12.0,37770.51,0,West,Full-Time,Bachelor,1,0
+25,30225.03,546.0,30.0,33263.34,4,West,Self-Employed,Bachelor,0,0
+50,49308.44,841.0,10.0,36719.98,4,West,Self-Employed,PhD,0,0
+18,61576.55,805.0,34.0,25471.76,4,East,Self-Employed,PhD,0,1
+50,66033.38,798.0,14.0,34321.69,4,North,Part-Time,Bachelor,0,0
+45,52462.22,620.0,1.0,3864.53,1,East,Full-Time,High School,1,0
+44,82572.02,739.0,5.0,35357.05,3,South,Full-Time,Bachelor,0,0
+56,73135.19,828.0,32.0,27125.44,0,West,Full-Time,High School,0,0
+47,50380.23,448.0,34.0,32525.32,2,East,Part-Time,Master,1,0
+59,68502.19,320.0,8.0,29560.28,3,Central,Part-Time,High School,1,0
+61,89808.28,476.0,24.0,13155.34,4,East,Full-Time,High School,0,0
+70,90288.72,650.0,22.0,7023.52,0,East,Self-Employed,Master,0,0
+63,32896.0,601.0,5.0,16455.35,4,Central,Full-Time,Bachelor,0,0
+47,38322.4,344.0,18.0,31779.01,2,East,Full-Time,Master,0,0
+46,81728.54,608.0,27.0,33281.1,5,South,Full-Time,High School,0,0
+31,35950.94,395.0,38.0,8584.69,3,South,Self-Employed,Master,0,0
+52,31194.26,578.0,33.0,13226.81,3,Central,Unemployed,High School,1,0
+25,46248.51,616.0,3.0,16321.17,4,West,Full-Time,High School,0,0
+71,62564.08,650.0,9.0,20712.34,4,North,Unemployed,Bachelor,1,0
+66,53156.86,526.0,17.0,8655.39,0,East,Self-Employed,High School,1,0
+24,43289.85,524.0,6.0,7935.38,3,South,Self-Employed,Bachelor,0,0
+62,42864.18,673.0,22.0,15137.98,0,West,Self-Employed,High School,0,0
+24,42177.93,712.0,0.0,26035.05,2,North,Full-Time,High School,0,0
+59,39168.83,744.0,4.0,10832.87,4,West,Self-Employed,Master,0,0
+22,96069.39,483.0,1.0,23610.36,5,West,Part-Time,High School,0,1
+45,60355.2,533.0,11.0,37702.63,1,South,Part-Time,Bachelor,0,0
+55,70961.66,481.0,30.0,9378.64,2,North,Full-Time,Master,0,0
+59,46196.61,590.0,7.0,22522.65,3,West,Part-Time,High School,0,0
+41,51652.78,369.0,39.0,37297.08,2,South,Unemployed,Master,0,0
+70,42156.03,536.0,10.0,19980.78,1,Central,Full-Time,High School,0,0
+62,10000.0,403.0,1.0,18115.96,1,West,Unemployed,Bachelor,0,0
+29,30195.83,592.0,13.0,38961.95,2,Central,Full-Time,High School,0,0
+56,22408.86,767.0,29.0,21325.58,3,East,Full-Time,Master,1,1
+59,14503.89,841.0,4.0,38253.94,5,Central,Full-Time,Bachelor,1,0
+37,33483.54,545.0,2.0,30147.58,3,North,Self-Employed,Bachelor,0,0
+60,78849.2,330.0,33.0,20885.86,2,South,Part-Time,None,0,0
+69,54200.15,,23.0,30756.29,3,North,Full-Time,Bachelor,0,0
+64,78230.15,357.0,13.0,28845.39,4,West,Part-Time,Master,0,0
+61,62397.69,717.0,30.0,37250.59,2,East,Full-Time,Master,0,0
+54,69086.06,841.0,33.0,18419.85,2,South,Full-Time,PhD,0,0
+33,38783.85,604.0,14.0,25494.47,1,South,Self-Employed,PhD,1,0
+63,64431.12,397.0,22.0,24261.81,5,West,Part-Time,None,0,0
+38,68116.86,311.0,0.0,33449.78,5,North,Self-Employed,High School,0,0
+48,44620.35,836.0,12.0,12697.85,1,East,Part-Time,Master,1,0
+35,65071.73,473.0,23.0,37203.72,2,West,Unemployed,Master,0,0
+35,65191.38,,7.0,30595.95,1,South,Full-Time,Bachelor,0,0
+26,45108.05,397.0,39.0,9196.9,5,South,Full-Time,High School,1,0
+72,34790.17,440.0,38.0,39499.15,0,South,Full-Time,None,0,0
+26,33685.69,660.0,10.0,51809.12,1,East,Part-Time,High School,0,0
+22,56557.1,790.0,15.0,37022.01,1,South,Part-Time,Bachelor,0,0
+71,60886.18,451.0,7.0,42123.82,3,South,Part-Time,Bachelor,1,0
+49,40734.54,677.0,20.0,26024.46,1,East,Full-Time,High School,0,0
+42,55478.54,335.0,4.0,5061.94,3,North,Full-Time,Master,0,0
+60,,305.0,15.0,2870.55,4,East,Part-Time,High School,0,0
+39,66127.43,330.0,22.0,28060.98,4,North,Unemployed,Bachelor,0,0
+25,82933.84,807.0,24.0,17896.25,0,North,Full-Time,Master,0,0
+59,77985.65,619.0,23.0,14025.08,0,South,Full-Time,Bachelor,0,0
+28,36976.75,742.0,8.0,24247.04,0,South,Full-Time,Master,0,0
+49,85304.55,311.0,31.0,32387.02,5,North,Full-Time,High School,0,0
+72,45442.42,312.0,27.0,7566.91,3,Central,Full-Time,Master,0,1
+71,73807.71,766.0,30.0,19613.47,3,South,Full-Time,None,0,0
+38,,356.0,18.0,43118.45,4,Central,Part-Time,High School,0,0
+62,47581.31,385.0,35.0,12096.54,3,Central,Full-Time,Bachelor,0,0
+52,22461.46,585.0,15.0,35437.13,1,Central,Full-Time,Bachelor,0,0
+45,51911.84,633.0,32.0,19183.23,3,Central,Full-Time,Bachelor,1,0
+25,26931.1,425.0,8.0,31549.53,4,North,Unemployed,Master,1,0
+39,72411.39,544.0,9.0,38167.93,0,South,Full-Time,Bachelor,0,0
+55,82302.27,671.0,21.0,33895.38,3,West,Full-Time,Bachelor,0,0
+74,40655.6,543.0,22.0,35909.92,2,East,Full-Time,High School,0,1
+18,60435.47,510.0,29.0,11180.88,0,North,Part-Time,Bachelor,0,1
+58,,339.0,11.0,38363.92,1,East,Self-Employed,Master,0,0
+66,43687.27,548.0,34.0,14767.68,2,Central,Full-Time,High School,1,0
+72,68940.9,741.0,13.0,28114.5,2,Central,Full-Time,Bachelor,0,0
+42,54306.31,644.0,21.0,28098.95,1,South,Full-Time,High School,0,0
+24,86313.66,791.0,37.0,30821.47,3,South,Part-Time,Master,1,0
+33,46319.82,369.0,21.0,29043.48,2,South,Unemployed,Bachelor,0,0
+66,72988.05,306.0,27.0,14874.28,2,South,Full-Time,Bachelor,0,0
+68,56753.44,601.0,36.0,8801.59,4,South,Full-Time,High School,0,1
+54,69324.0,398.0,38.0,35468.18,0,South,Self-Employed,Bachelor,0,0
+24,46951.16,626.0,19.0,27230.01,2,East,Part-Time,None,1,0
+24,54107.94,797.0,16.0,38792.52,0,North,Full-Time,Bachelor,0,0
+45,52921.02,485.0,7.0,24463.2,5,South,Full-Time,Bachelor,0,0
+51,39950.97,602.0,21.0,8138.03,1,South,Full-Time,Master,0,0
+19,66917.47,674.0,36.0,36593.56,4,North,Self-Employed,Bachelor,1,0
+57,66704.48,382.0,19.0,20555.55,1,Central,Part-Time,Bachelor,0,0
+49,65683.98,793.0,13.0,29104.04,1,West,Part-Time,Bachelor,0,0
+18,82665.38,411.0,4.0,17230.49,3,Central,Self-Employed,High School,0,0
+23,81088.21,744.0,15.0,44731.62,4,East,Full-Time,Master,1,0
+43,48251.0,662.0,9.0,14481.22,1,North,Full-Time,Master,0,0
+59,61714.94,377.0,39.0,20950.84,1,Central,Full-Time,PhD,0,0
+65,43775.19,698.0,21.0,26289.38,5,East,Self-Employed,Master,1,0
+42,55420.4,408.0,5.0,11893.81,1,West,Part-Time,Bachelor,0,0
+34,44204.51,629.0,2.0,28966.23,1,South,Full-Time,High School,0,0
+73,84161.27,827.0,34.0,44342.93,4,East,Full-Time,Bachelor,0,0
+44,61546.57,824.0,37.0,19114.45,0,East,Part-Time,None,0,0
+35,51075.48,779.0,30.0,29741.71,5,South,Part-Time,Master,0,0
+43,76485.13,571.0,4.0,1000.0,5,East,Part-Time,Bachelor,0,0
+18,15928.92,607.0,3.0,24532.85,5,West,Full-Time,Bachelor,0,0
+35,18746.15,465.0,7.0,21243.49,1,North,Unemployed,Master,0,0
+47,,806.0,30.0,15178.03,0,North,Self-Employed,PhD,0,0
+70,56088.43,562.0,30.0,37977.41,2,Central,Part-Time,Master,1,0
+60,59508.03,724.0,,21085.08,2,East,Part-Time,Bachelor,0,0
+62,31124.87,497.0,3.0,22870.27,5,Central,Unemployed,High School,0,0
+49,54581.79,707.0,6.0,20473.69,3,West,Unemployed,Bachelor,0,0
+24,91063.17,423.0,36.0,1998.21,5,West,Part-Time,Bachelor,0,0
+40,69835.59,703.0,37.0,11416.16,4,Central,Full-Time,PhD,0,0
+74,58054.72,325.0,29.0,36533.12,4,West,Full-Time,Bachelor,0,0
+20,,357.0,4.0,1000.0,0,South,Self-Employed,Bachelor,0,0
+68,47897.69,493.0,2.0,15804.22,0,East,Part-Time,Bachelor,0,0
+57,16674.44,565.0,2.0,20203.36,0,South,Full-Time,Bachelor,0,0
+34,59637.53,691.0,27.0,45923.46,3,South,Full-Time,Bachelor,1,0
+62,70218.7,497.0,33.0,34223.25,1,West,Unemployed,High School,1,0
+65,26638.85,310.0,25.0,18313.95,5,North,Self-Employed,Master,0,0
+20,43094.5,478.0,10.0,40654.16,0,West,Unemployed,Bachelor,0,0
+24,34165.64,541.0,30.0,16113.81,5,East,Full-Time,Bachelor,0,0
+55,37623.68,599.0,2.0,37109.2,4,South,Self-Employed,High School,0,0
+74,55962.67,654.0,33.0,8693.47,0,North,Self-Employed,Bachelor,1,0
+19,17480.76,436.0,35.0,37879.09,0,West,Full-Time,Master,1,1
+55,66056.87,635.0,28.0,20126.4,2,Central,Full-Time,Master,0,0
+25,68569.39,647.0,35.0,12657.95,2,West,Unemployed,High School,1,0
+55,50480.15,727.0,23.0,22394.28,1,East,Full-Time,None,0,0
+53,10347.25,587.0,18.0,28328.13,3,West,Part-Time,Master,1,0
+23,37064.46,745.0,12.0,19063.02,0,East,Part-Time,High School,0,0
+56,77192.23,421.0,36.0,31647.44,0,South,Part-Time,High School,0,0
+69,10000.0,691.0,27.0,18004.07,4,South,Full-Time,High School,0,0
+67,48744.58,325.0,7.0,32444.47,5,South,Part-Time,Master,1,0
+19,33759.99,356.0,38.0,30306.66,1,Central,Full-Time,High School,0,0
+32,69482.27,775.0,2.0,24268.92,5,West,Self-Employed,Bachelor,0,0
+31,42847.95,561.0,23.0,19703.41,2,North,Full-Time,Master,0,0
+43,62271.17,641.0,7.0,26818.49,2,Central,Part-Time,Master,0,0
+26,65178.29,631.0,26.0,31603.04,0,North,Self-Employed,Bachelor,1,0
+66,88052.07,682.0,16.0,49741.59,2,East,Full-Time,Master,0,0
+62,51347.05,435.0,17.0,36273.05,2,North,Full-Time,High School,0,0
+64,61768.8,398.0,26.0,36711.88,3,South,Self-Employed,Master,0,0
+29,28269.0,323.0,30.0,62062.15,0,West,Full-Time,High School,0,0
+18,76427.44,775.0,15.0,31191.5,1,Central,Full-Time,High School,0,0
+69,41310.84,422.0,39.0,30815.72,2,Central,Full-Time,None,0,0
+34,44906.43,616.0,19.0,33448.18,0,Central,Unemployed,High School,0,0
+55,54599.54,550.0,6.0,12892.41,0,South,Part-Time,High School,0,0
+69,26868.08,389.0,0.0,19673.18,3,North,Full-Time,Bachelor,0,0
+20,59117.86,527.0,8.0,18925.97,5,Central,Unemployed,Bachelor,0,0
+18,72414.39,345.0,27.0,32771.37,3,Central,Full-Time,High School,0,0
+18,60272.81,397.0,21.0,22909.91,0,South,Full-Time,Bachelor,1,0
+26,26399.84,376.0,13.0,26658.68,5,North,Full-Time,Master,1,0
+20,52771.43,753.0,19.0,38049.46,3,West,Full-Time,Master,0,0
+64,68356.52,612.0,,35357.81,4,North,Full-Time,High School,0,0
+52,,809.0,22.0,23059.35,1,North,Part-Time,Bachelor,1,0
+73,35654.21,539.0,2.0,16960.06,3,Central,Full-Time,Master,0,0
+63,70777.78,410.0,1.0,38623.3,0,East,Part-Time,High School,0,0
+72,59861.72,634.0,19.0,34286.69,3,North,Full-Time,High School,0,1
+31,62415.49,811.0,16.0,5724.92,1,West,Full-Time,High School,0,0
+34,88470.91,592.0,,21242.15,5,South,Full-Time,Bachelor,0,0
+66,63433.95,309.0,23.0,26986.19,0,East,Part-Time,High School,0,0
+31,66841.98,466.0,30.0,34345.96,3,Central,Part-Time,Master,0,0
+21,103793.42,808.0,23.0,35921.22,0,South,Full-Time,None,1,0
+56,51151.52,585.0,13.0,28406.87,4,West,Full-Time,High School,0,0
+63,40638.11,823.0,26.0,32022.97,2,Central,Full-Time,Bachelor,0,0
+73,62700.34,580.0,24.0,25769.64,5,East,Self-Employed,High School,0,0
+70,,306.0,28.0,16913.78,3,Central,Full-Time,High School,0,0
+24,45519.12,780.0,7.0,21864.83,2,East,Self-Employed,Master,0,0
+62,36416.85,719.0,25.0,25227.89,0,East,Full-Time,Bachelor,0,0
+66,96577.2,693.0,11.0,24583.85,3,Central,Full-Time,PhD,0,0
+57,60883.18,833.0,31.0,2373.13,2,West,Part-Time,Bachelor,0,0
+64,41818.86,407.0,31.0,20230.2,0,Central,Full-Time,High School,1,0
+65,71486.75,798.0,24.0,25674.47,3,West,Full-Time,Bachelor,0,0
+43,53035.39,427.0,,21623.56,1,West,Unemployed,High School,1,0
+20,50448.13,833.0,21.0,22038.11,1,South,Full-Time,Master,0,0
+44,65120.91,405.0,1.0,30855.9,0,South,Full-Time,Bachelor,0,0
+29,31746.12,602.0,24.0,12052.51,2,Central,Full-Time,Bachelor,0,0
+24,61347.29,734.0,31.0,5463.49,1,West,Full-Time,Bachelor,0,0
+25,89433.19,342.0,4.0,20821.96,0,South,Self-Employed,Bachelor,0,0
+57,63391.2,336.0,4.0,34169.37,2,South,Full-Time,Master,0,0
+46,48228.18,767.0,10.0,45250.64,1,West,Unemployed,High School,0,0
+48,45872.1,333.0,33.0,34385.54,0,North,Part-Time,High School,0,0
+60,47613.88,637.0,21.0,7380.83,2,North,Unemployed,High School,1,0
+49,50428.67,816.0,39.0,22211.59,0,West,Self-Employed,Bachelor,0,0
+53,48199.48,638.0,34.0,28079.61,5,South,Unemployed,Bachelor,0,0
+22,71493.61,564.0,22.0,27131.09,2,West,Part-Time,High School,1,0
+66,23802.24,529.0,27.0,31471.65,5,East,Full-Time,Bachelor,1,0
+43,70516.0,650.0,13.0,13995.41,5,Central,Full-Time,Bachelor,0,0
+26,48165.64,614.0,3.0,25779.32,5,East,Part-Time,High School,0,0
+64,61785.06,575.0,15.0,30043.87,3,Central,Full-Time,PhD,0,0
+59,34714.22,384.0,23.0,34908.05,2,Central,Part-Time,Bachelor,0,0
+21,78915.36,664.0,7.0,15331.38,4,South,Full-Time,Bachelor,0,0
+29,77421.43,706.0,8.0,20858.12,0,Central,Self-Employed,Bachelor,0,0
+18,72272.63,689.0,0.0,1000.0,5,West,Full-Time,Bachelor,0,0
+33,27734.41,341.0,29.0,17542.46,1,North,Unemployed,Master,0,0
+23,69924.18,,35.0,18707.02,0,North,Full-Time,Bachelor,1,0
+58,62287.39,701.0,33.0,12764.99,1,South,Full-Time,Bachelor,1,0
+47,26105.12,400.0,15.0,26987.35,1,North,Self-Employed,PhD,0,1
+73,,766.0,23.0,24328.65,0,South,Self-Employed,Master,0,0
+60,61561.62,588.0,38.0,1000.0,4,Central,Part-Time,Master,0,0
+52,65009.35,559.0,23.0,27586.1,0,East,Unemployed,High School,0,0
+47,58190.7,697.0,11.0,13860.11,5,North,Full-Time,High School,0,0
+21,60242.17,580.0,13.0,30828.27,2,East,Self-Employed,Bachelor,0,0
+22,81525.01,599.0,29.0,9617.79,4,South,Full-Time,Bachelor,0,0
+53,77068.61,471.0,17.0,25360.08,2,Central,Full-Time,Bachelor,0,0
+18,10000.0,810.0,33.0,21602.04,0,North,Full-Time,Master,0,0
+20,49286.11,833.0,34.0,28637.22,1,West,Full-Time,High School,0,0
+30,52036.28,371.0,1.0,26496.37,3,East,Part-Time,High School,0,0
+68,23462.23,703.0,28.0,21938.03,4,North,Part-Time,Bachelor,0,1
+44,56695.3,312.0,14.0,6564.73,1,West,Full-Time,High School,0,0
+58,77477.64,502.0,20.0,7273.5,2,East,Unemployed,Bachelor,1,0
+41,35441.78,833.0,10.0,17993.36,5,West,Full-Time,Master,0,0
+27,61055.22,396.0,14.0,24900.64,5,West,Full-Time,Bachelor,0,0
+39,38515.18,507.0,13.0,17701.02,2,West,Part-Time,Master,0,0
+23,42905.58,420.0,2.0,32502.54,1,East,Full-Time,Bachelor,0,0
+61,81593.09,700.0,31.0,21649.35,1,North,Full-Time,Master,0,0
+28,45233.96,555.0,5.0,13419.85,3,North,Part-Time,High School,0,0
+39,63319.82,626.0,15.0,21662.84,3,East,Full-Time,Master,0,0
+73,21318.07,818.0,7.0,27710.32,1,South,Full-Time,Master,0,0
+51,88521.72,586.0,6.0,28898.62,0,West,Part-Time,High School,1,0
+44,65847.74,703.0,14.0,47540.55,2,East,Full-Time,Bachelor,1,0
+48,51715.0,353.0,36.0,16973.09,4,Central,Self-Employed,Master,0,0
+62,65359.84,418.0,37.0,24118.26,0,North,Self-Employed,High School,0,0
+32,29623.25,820.0,15.0,30113.49,2,South,Full-Time,Master,0,0
+54,76285.55,772.0,20.0,24718.92,0,West,Full-Time,None,0,0
+67,49168.27,661.0,39.0,18992.58,1,North,Full-Time,Master,0,0
+50,51326.75,508.0,,6408.91,3,South,Part-Time,Bachelor,0,0
+43,46150.2,409.0,37.0,18869.99,1,West,Full-Time,Bachelor,0,0
+26,44548.27,768.0,4.0,12115.57,1,East,Unemployed,None,0,0
+32,67504.07,731.0,9.0,4280.72,5,West,Full-Time,Bachelor,0,0
+71,59606.32,432.0,13.0,15451.85,1,East,Part-Time,High School,0,0
+48,66731.47,624.0,1.0,12434.9,1,Central,Full-Time,High School,0,0
+35,54841.7,,32.0,32005.44,5,Central,Full-Time,Master,0,1
+41,64237.6,562.0,34.0,32213.1,3,Central,Full-Time,Bachelor,0,0
+50,47460.72,809.0,15.0,14153.45,0,North,Part-Time,High School,0,0
+48,95135.17,368.0,33.0,21877.26,2,East,Unemployed,Bachelor,1,0
+57,26777.25,441.0,30.0,2701.09,3,North,Full-Time,Master,0,0
+32,77696.87,352.0,32.0,19067.92,1,South,Full-Time,Bachelor,1,0
+55,79622.33,681.0,32.0,29787.78,3,South,Full-Time,Master,0,0
+43,39661.14,654.0,22.0,34899.25,3,West,Full-Time,Master,0,0
+71,95126.92,843.0,4.0,16443.44,1,East,Self-Employed,None,0,0
+27,72918.83,598.0,36.0,37622.26,4,Central,Unemployed,Master,0,0
+26,72480.5,382.0,24.0,6811.7,2,South,Self-Employed,High School,0,0
+44,55504.4,,36.0,10028.47,5,West,Full-Time,Bachelor,0,0
+46,,348.0,38.0,33515.94,0,West,Full-Time,High School,0,0
+57,51230.64,669.0,7.0,45053.45,1,Central,Part-Time,None,0,0
+41,62029.55,670.0,,30921.18,4,South,Full-Time,High School,1,0
+70,80221.35,771.0,7.0,24515.89,5,West,Part-Time,Bachelor,1,0
+45,58263.66,486.0,2.0,1000.0,1,North,Full-Time,Master,0,0
+25,38594.01,470.0,38.0,1000.0,5,East,Full-Time,High School,0,0
+24,69839.69,339.0,36.0,26552.91,1,East,Self-Employed,Master,1,0
+73,71580.71,528.0,37.0,20703.25,2,Central,Full-Time,High School,0,0
+25,66783.87,561.0,35.0,11729.98,1,West,Unemployed,Bachelor,0,0
+72,68418.98,714.0,25.0,25786.39,2,Central,Full-Time,Bachelor,0,0
+33,50123.29,714.0,20.0,26381.58,5,Central,Full-Time,Bachelor,0,0
+23,38278.19,377.0,39.0,36332.99,4,East,Full-Time,Bachelor,0,0
+35,39372.52,456.0,22.0,26639.23,4,West,Full-Time,PhD,0,0
+53,25561.66,581.0,25.0,39740.73,1,North,Full-Time,Bachelor,0,0
+42,,484.0,8.0,25095.93,5,East,Full-Time,Bachelor,0,0
+62,53497.92,,29.0,23615.98,2,North,Part-Time,Master,0,0
+52,47080.22,765.0,32.0,37771.75,3,West,Self-Employed,Master,0,0
+40,10000.0,702.0,27.0,13258.71,4,Central,Full-Time,High School,0,0
+54,32548.29,586.0,19.0,58773.37,3,West,Full-Time,PhD,1,0
+73,75175.13,474.0,,29503.09,3,Central,Full-Time,High School,1,0
+41,43036.73,763.0,1.0,29569.95,2,South,Self-Employed,Bachelor,0,0
+26,61490.65,319.0,25.0,31301.15,3,Central,Part-Time,Bachelor,0,0
+41,29967.66,545.0,27.0,47525.64,5,East,Full-Time,Master,0,0
+65,80896.7,740.0,30.0,34510.09,2,West,Full-Time,High School,0,0
+30,52407.5,824.0,38.0,5739.33,3,West,Full-Time,High School,0,0
+72,60220.73,438.0,19.0,41841.64,1,West,Full-Time,Master,0,0
+51,96864.04,657.0,33.0,20909.24,2,South,Full-Time,High School,0,0
+52,82295.92,404.0,28.0,26285.86,4,West,Unemployed,Bachelor,0,0
+36,49481.82,363.0,11.0,9648.95,3,West,Full-Time,Master,1,0
+70,44322.04,494.0,33.0,31314.42,1,Central,Full-Time,Bachelor,0,0
+20,49140.19,786.0,2.0,17183.51,3,East,Full-Time,High School,0,0
+35,64178.17,679.0,23.0,26202.04,4,East,Part-Time,Bachelor,0,0
+41,53105.97,569.0,37.0,21590.81,0,East,Full-Time,None,0,0
+45,47885.61,455.0,26.0,48100.15,0,North,Full-Time,Bachelor,0,0
+45,81409.26,377.0,37.0,48787.12,2,North,Full-Time,High School,0,0
+26,52944.22,448.0,2.0,25558.16,3,North,Part-Time,High School,0,0
+30,96392.6,383.0,21.0,25767.73,1,West,Full-Time,Bachelor,0,0
+23,56633.37,402.0,31.0,20518.68,4,East,Unemployed,None,0,0
+50,87135.73,678.0,25.0,38272.08,5,Central,Full-Time,Bachelor,0,0
+37,61431.75,372.0,35.0,21052.96,3,West,Full-Time,High School,0,0
+50,72333.29,326.0,18.0,19943.95,2,North,Unemployed,Bachelor,0,0
+51,41957.0,598.0,27.0,36743.11,0,North,Self-Employed,High School,0,0
+58,39632.33,457.0,16.0,18540.41,4,South,Full-Time,High School,0,0
+49,63274.71,550.0,34.0,24546.94,5,Central,Self-Employed,None,0,0
+54,72793.96,376.0,4.0,6024.27,2,North,Full-Time,Master,0,0
+51,55724.62,415.0,10.0,33450.28,3,North,Full-Time,High School,0,0
+55,31844.92,542.0,3.0,48290.4,4,North,Self-Employed,Bachelor,0,0
+53,30515.35,679.0,28.0,33654.7,4,East,Self-Employed,High School,1,0
+36,29311.54,527.0,9.0,42541.59,0,Central,Full-Time,High School,0,0
+32,23182.8,597.0,12.0,14846.77,4,West,Part-Time,Bachelor,1,0
+62,56970.74,587.0,33.0,27835.89,5,East,Full-Time,Bachelor,0,0
+37,75250.79,447.0,14.0,13682.08,4,North,Full-Time,Master,0,0
+49,54758.52,453.0,5.0,22266.81,2,South,Unemployed,Master,1,0
+29,14312.53,534.0,0.0,34266.54,3,East,Full-Time,High School,0,0
+42,51566.31,317.0,9.0,26221.85,1,South,Part-Time,PhD,0,1
+48,52069.62,676.0,36.0,8048.31,3,West,Part-Time,Bachelor,1,0
+53,92727.98,637.0,21.0,9219.65,1,Central,Part-Time,High School,0,0
+48,28771.52,468.0,39.0,8426.03,2,South,Full-Time,Master,0,0
+38,47967.8,505.0,8.0,30897.43,1,South,Unemployed,High School,0,0
+72,85705.35,480.0,14.0,49766.73,2,North,Part-Time,Bachelor,0,0
+47,63099.61,658.0,6.0,41349.5,2,West,Part-Time,Master,0,0

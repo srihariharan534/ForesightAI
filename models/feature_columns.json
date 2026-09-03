@@ -1,0 +1,13 @@
+{
+  "features": [
+    "water_level_meters",
+    "rainfall_mm",
+    "region_encoded"
+  ],
+  "target": "severity",
+  "expected_dtypes": {
+    "water_level_meters": "float64",
+    "rainfall_mm": "float64",
+    "region_encoded": "int8"
+  }
+}

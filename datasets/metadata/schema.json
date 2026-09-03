@@ -1,0 +1,15 @@
+{
+  "datasets": {
+    "flood_history": {
+      "columns": [
+        "event_id",
+        "date",
+        "region",
+        "water_level_meters",
+        "rainfall_mm",
+        "damage_estimate_usd",
+        "severity"
+      ]
+    }
+  }
+}
