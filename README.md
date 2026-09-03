@@ -1,17 +1,16 @@
 # 🚀 ForesightAI
 
-> **Enterprise AI Decision Intelligence Platform for Prediction, Risk Assessment, Explainable AI & Decision Support**
+> 🚀 Enterprise AI Decision Intelligence Platform
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-success)
-![LightGBM](https://img.shields.io/badge/LightGBM-ML-success)
-![CatBoost](https://img.shields.io/badge/CatBoost-ML-success)
-![SHAP](https://img.shields.io/badge/Explainable-AI-orange)
-![MLflow](https://img.shields.io/badge/MLflow-MLOps-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
+🤖 AI Prediction Engine
+🧠 Decision Center
+📊 Executive Dashboard
+📈 Business Impact & ROI
+⚖️ Fairness & Bias Governance
+🔥 Risk Heat Matrix
+🎲 Monte Carlo Simulation
+🗺️ Enterprise Risk Map
+📄 Executive Reports & Dossiers
 
 ---
 
@@ -113,11 +112,78 @@ The platform enables organizations to make faster, smarter, and more transparent
 
 ---
 
-# 🏗 System Architecture
+# 🏗️ System Architecture
 
-![Architecture](assets/architecture/architecture.png)
-
----
+```text
+                            ┌──────────────────────────────┐
+                            │         End Users           │
+                            │ Data Analysts • Managers    │
+                            │ Executives • Risk Officers  │
+                            └──────────────┬──────────────┘
+                                           │
+                                           ▼
+                    ┌─────────────────────────────────────┐
+                    │      React + TypeScript Frontend    │
+                    │                                     │
+                    │ • Executive Dashboard               │
+                    │ • AI Prediction Engine              │
+                    │ • Decision Center                   │
+                    │ • Business Impact & ROI             │
+                    │ • Fairness & Bias Governance        │
+                    │ • Risk Heat Matrix                  │
+                    │ • Monte Carlo Simulation            │
+                    │ • Executive Reports                 │
+                    │ • Enterprise Risk Map               │
+                    └──────────────┬──────────────────────┘
+                                   │ REST API
+                                   ▼
+                    ┌─────────────────────────────────────┐
+                    │         FastAPI Backend             │
+                    │                                     │
+                    │ • Authentication                    │
+                    │ • Prediction API                    │
+                    │ • Decision Engine                   │
+                    │ • Report Generator                  │
+                    │ • Simulation API                    │
+                    │ • Explainability API                │
+                    └──────────────┬──────────────────────┘
+                                   │
+          ┌────────────────────────┼────────────────────────┐
+          ▼                        ▼                        ▼
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│ Data Processing  │     │   AI/ML Engine   │     │ Monitoring Layer │
+│                  │     │                  │     │                  │
+│ CSV Validation   │     │ XGBoost          │     │ MLflow           │
+│ Cleaning         │     │ LightGBM         │     │ Logging          │
+│ Feature Eng.     │     │ CatBoost         │     │ Metrics          │
+│ Scaling          │     │ SHAP             │     │ Drift Monitor    │
+└─────────┬────────┘     └─────────┬────────┘     └─────────┬────────┘
+          │                        │                        │
+          └──────────────┬─────────┴──────────────┬─────────┘
+                         ▼                        ▼
+              ┌─────────────────────────────────────────┐
+              │        Business Intelligence Layer      │
+              │                                         │
+              │ • Executive Recommendations             │
+              │ • Risk Classification                   │
+              │ • Business Impact Analysis              │
+              │ • Fairness Evaluation                   │
+              │ • Monte Carlo Simulation                │
+              │ • Heat Matrix                           │
+              │ • Executive Reports                     │
+              └─────────────────┬───────────────────────┘
+                                │
+                                ▼
+              ┌─────────────────────────────────────────┐
+              │          Storage & Model Registry        │
+              │                                         │
+              │ PostgreSQL / SQLite                     │
+              │ Trained Models                          │
+              │ MLflow Registry                         │
+              │ Reports                                 │
+              │ Prediction History                      │
+              └─────────────────────────────────────────┘
+```
 
 # 🔄 End-to-End Workflow
 
