@@ -174,38 +174,48 @@ Executive Compliance Report Dossier
 
 ---
 
-## 2. Prediction Engine & AI Executive Summary
-![Prediction](assets/screenshots/prediction.png)
+## 2. AI Prediction Engine
+![AI Prediction Engine](assets/screenshots/ai_prediction_engine.png)
 
 ---
 
-## 3. Explainable AI (SHAP Waterfall Attribution)
-![SHAP](assets/screenshots/shap.png)
+## 3. Decision Center
+![Decision Center](assets/screenshots/decision_center.png)
 
 ---
 
-## 4. AutoML Model Comparison Leaderboard
-![Comparison](assets/screenshots/model_comparison.png)
+## 4. Executive Business Impact & ROI
+![Executive Business Impact & ROI](assets/screenshots/executive_business_impact_roi.png)
 
 ---
 
-## 5. What-If Scenario Simulator
-![Simulation](assets/screenshots/simulation.png)
+## 5. Fairness & Bias Governance
+![Fairness & Bias Governance](assets/screenshots/fairness_bias_governance.png)
 
 ---
 
-## 6. Data & Concept Drift Monitoring (PSI / KS-Test)
-![Drift](assets/screenshots/drift.png)
+## 6. Correlation Heatmatrix
+![Heatmatrix](assets/screenshots/heatmatrix.png)
 
 ---
 
-## 7. Intelligent Decision Copilot
-![Copilot](assets/screenshots/copilot.png)
+## 7. What-If Monte Carlo Simulation
+![Monte Carlo Simulation](assets/screenshots/monte_carlo_simulation.png)
 
 ---
 
-## 8. Executive Reports & Audit Dossiers
-![Reports](assets/screenshots/reports.png)
+## 8. Prediction Engine
+![Prediction Engine](assets/screenshots/prediction_engine.png)
+
+---
+
+## 9. Executive Reports & Dossiers
+![Reports & Dossiers](assets/screenshots/reports_dossiers.png)
+
+---
+
+## 10. Risk Map
+![Risk Map](assets/screenshots/risk_map.png)
 
 ---
 
@@ -250,13 +260,15 @@ ForesightAI/
 │   │   └── architecture.png
 │   └── screenshots/
 │       ├── dashboard.png
-│       ├── prediction.png
-│       ├── shap.png
-│       ├── model_comparison.png
-│       ├── simulation.png
-│       ├── drift.png
-│       ├── copilot.png
-│       └── reports.png
+│       ├── ai_prediction_engine.png
+│       ├── decision_center.png
+│       ├── executive_business_impact_roi.png
+│       ├── fairness_bias_governance.png
+│       ├── heatmatrix.png
+│       ├── monte_carlo_simulation.png
+│       ├── prediction_engine.png
+│       ├── reports_dossiers.png
+│       └── risk_map.png
 ├── backend/
 │   ├── app/
 │   │   ├── api/
