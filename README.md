@@ -194,28 +194,28 @@ Executive Compliance Report Dossier
 
 ---
 
-## 6. Correlation Heatmatrix
-![Heatmatrix](assets/screenshots/heatmatrix.png)
+## 6. Enterprise Risk Heat Matrix (Impact vs Probability)
+![Enterprise Risk Heat Matrix](assets/screenshots/heatmatrix.png)
 
 ---
 
-## 7. What-If Monte Carlo Simulation
+## 7. What-If Monte Carlo Simulation & Scenario Stress-Testing
 ![Monte Carlo Simulation](assets/screenshots/monte_carlo_simulation.png)
 
 ---
 
-## 8. Prediction Engine
-![Prediction Engine](assets/screenshots/prediction_engine.png)
+## 8. Batch Inference & Live Dataset Scoring
+![Batch Inference & Dataset Scoring](assets/screenshots/prediction_engine.png)
 
 ---
 
-## 9. Executive Reports & Dossiers
+## 9. Executive Reports & Regulatory Dossiers
 ![Reports & Dossiers](assets/screenshots/reports_dossiers.png)
 
 ---
 
-## 10. Risk Map
-![Risk Map](assets/screenshots/risk_map.png)
+## 10. Geospatial Risk Exposure Map
+![Geospatial Risk Exposure Map](assets/screenshots/risk_map.png)
 
 ---
 
