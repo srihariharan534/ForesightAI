@@ -2,14 +2,24 @@
 
 > 🚀 Enterprise AI Decision Intelligence Platform
 
+
+
 🤖 AI Prediction Engine
+
 🧠 Decision Center
+
 📊 Executive Dashboard
+
 📈 Business Impact & ROI
+
 ⚖️ Fairness & Bias Governance
+
 🔥 Risk Heat Matrix
+
 🎲 Monte Carlo Simulation
+
 🗺️ Enterprise Risk Map
+
 📄 Executive Reports & Dossiers
 
 ---
