@@ -2,8 +2,6 @@
 
 > 🚀 Enterprise AI Decision Intelligence Platform
 
-
-
 🤖 AI Prediction Engine
 
 🧠 Decision Center
@@ -371,29 +369,78 @@ ForesightAI/
 
 ---
 
-# ⚙ Installation & Running Locally
+# ⚙️ Installation & Running Locally
 
-### 1. Clone the repository:
+## Prerequisites
+
+- Python 3.11+
+- Node.js 20+
+- npm
+- Git
+
+---
+
+## 1. Clone the Repository
+
 ```bash
 git clone https://github.com/srihariharan534/ForesightAI.git
 cd ForesightAI
 ```
 
-### 2. Run Backend:
-```powershell
-$env:PYTHONPATH="backend;.backend"; .\.venv\Scripts\uvicorn backend.app.main:app --reload --port 8000
-```
-- API Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
+## 2. Start the Backend
 
-### 3. Run Frontend:
-```powershell
+```bash
+cd backend
+
+python -m venv .venv
+
+# Windows
+.venv\Scripts\activate
+
+# macOS/Linux
+source .venv/bin/activate
+
+pip install -r requirements.txt
+
+uvicorn app.main:app --reload --port 8000
+```
+
+Backend API:
+
+```
+http://localhost:8000
+```
+
+Swagger Documentation:
+
+```
+http://localhost:8000/docs
+```
+
+## 3. Start the Frontend
+
+```bash
 cd frontend
+
 npm install
+
 npm run dev
 ```
-- Web Application: [http://localhost:5173](http://localhost:5173)
 
----
+Frontend:
+
+```
+http://localhost:5173
+```
+
+## 🌐 Live Demo
+
+Frontend: https://foresight-ai-swart.vercel.app
+
+Backend API: https://foresightai-1.onrender.com
+
+API Documentation: https://foresightai-1.onrender.com/docs
+--
 
 # 🚀 Why ForesightAI?
 
