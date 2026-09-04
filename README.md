@@ -440,6 +440,7 @@ Frontend: https://foresight-ai-swart.vercel.app
 Backend API: https://foresightai-1.onrender.com
 
 API Documentation: https://foresightai-1.onrender.com/docs
+
 --
 
 # 🚀 Why ForesightAI?
